@@ -1,0 +1,595 @@
+{
+ "fecha_utc": "2026-10-04",
+ "monedas": [
+  {
+   "puesto": 1,
+   "ticker": "BTC",
+   "nombre": "Bitcoin",
+   "simbolo": "BTCUSDT"
+  },
+  {
+   "puesto": 2,
+   "ticker": "ETH",
+   "nombre": "Ethereum",
+   "simbolo": "ETHUSDT"
+  },
+  {
+   "puesto": 4,
+   "ticker": "BNB",
+   "nombre": "BNB",
+   "simbolo": "BNBUSDT"
+  },
+  {
+   "puesto": 5,
+   "ticker": "XRP",
+   "nombre": "XRP",
+   "simbolo": "XRPUSDT"
+  },
+  {
+   "puesto": 7,
+   "ticker": "SOL",
+   "nombre": "Solana",
+   "simbolo": "SOLUSDT"
+  },
+  {
+   "puesto": 8,
+   "ticker": "TRX",
+   "nombre": "TRON",
+   "simbolo": "TRXUSDT"
+  },
+  {
+   "puesto": 10,
+   "ticker": "ZEC",
+   "nombre": "Zcash",
+   "simbolo": "ZECUSDT"
+  },
+  {
+   "puesto": 11,
+   "ticker": "HYPE",
+   "nombre": "Hyperliquid",
+   "simbolo": "HYPEUSDT"
+  },
+  {
+   "puesto": 12,
+   "ticker": "DOGE",
+   "nombre": "Dogecoin",
+   "simbolo": "DOGEUSDT"
+  },
+  {
+   "puesto": 13,
+   "ticker": "LINK",
+   "nombre": "Chainlink",
+   "simbolo": "LINKUSDT"
+  },
+  {
+   "puesto": 17,
+   "ticker": "ADA",
+   "nombre": "Cardano",
+   "simbolo": "ADAUSDT"
+  },
+  {
+   "puesto": 20,
+   "ticker": "XLM",
+   "nombre": "Stellar",
+   "simbolo": "XLMUSDT"
+  },
+  {
+   "puesto": 21,
+   "ticker": "BCH",
+   "nombre": "Bitcoin Cash",
+   "simbolo": "BCHUSDT"
+  },
+  {
+   "puesto": 22,
+   "ticker": "NEAR",
+   "nombre": "NEAR Protocol",
+   "simbolo": "NEARUSDT"
+  },
+  {
+   "puesto": 23,
+   "ticker": "UNI",
+   "nombre": "Uniswap",
+   "simbolo": "UNIUSDT"
+  },
+  {
+   "puesto": 24,
+   "ticker": "LTC",
+   "nombre": "Litecoin",
+   "simbolo": "LTCUSDT"
+  },
+  {
+   "puesto": 26,
+   "ticker": "AVAX",
+   "nombre": "Avalanche",
+   "simbolo": "AVAXUSDT"
+  },
+  {
+   "puesto": 28,
+   "ticker": "SUI",
+   "nombre": "Sui",
+   "simbolo": "SUIUSDT"
+  },
+  {
+   "puesto": 30,
+   "ticker": "HBAR",
+   "nombre": "Hedera",
+   "simbolo": "HBARUSDT"
+  },
+  {
+   "puesto": 32,
+   "ticker": "GRAM",
+   "nombre": "Gram (prev. Toncoin)",
+   "simbolo": "GRAMUSDT"
+  },
+  {
+   "puesto": 33,
+   "ticker": "QNT",
+   "nombre": "Quant",
+   "simbolo": "QNTUSDT"
+  },
+  {
+   "puesto": 34,
+   "ticker": "TAO",
+   "nombre": "Bittensor",
+   "simbolo": "TAOUSDT"
+  },
+  {
+   "puesto": 35,
+   "ticker": "SHIB",
+   "nombre": "Shiba Inu",
+   "simbolo": "SHIBUSDT"
+  },
+  {
+   "puesto": 39,
+   "ticker": "PUMP",
+   "nombre": "Pump.fun",
+   "simbolo": "PUMPUSDT"
+  },
+  {
+   "puesto": 41,
+   "ticker": "AAVE",
+   "nombre": "Aave",
+   "simbolo": "AAVEUSDT"
+  },
+  {
+   "puesto": 45,
+   "ticker": "ONDO",
+   "nombre": "Ondo",
+   "simbolo": "ONDOUSDT"
+  },
+  {
+   "puesto": 46,
+   "ticker": "ENA",
+   "nombre": "Ethena",
+   "simbolo": "ENAUSDT"
+  },
+  {
+   "puesto": 50,
+   "ticker": "WLD",
+   "nombre": "Worldcoin",
+   "simbolo": "WLDUSDT"
+  },
+  {
+   "puesto": 52,
+   "ticker": "SKY",
+   "nombre": "Sky",
+   "simbolo": "SKYUSDT"
+  },
+  {
+   "puesto": 54,
+   "ticker": "DOT",
+   "nombre": "Polkadot",
+   "simbolo": "DOTUSDT"
+  },
+  {
+   "puesto": 55,
+   "ticker": "MORPHO",
+   "nombre": "Morpho",
+   "simbolo": "MORPHOUSDT"
+  },
+  {
+   "puesto": 56,
+   "ticker": "ASTER",
+   "nombre": "Aster",
+   "simbolo": "ASTERUSDT"
+  },
+  {
+   "puesto": 57,
+   "ticker": "ICP",
+   "nombre": "Internet Computer",
+   "simbolo": "ICPUSDT"
+  },
+  {
+   "puesto": 59,
+   "ticker": "PEPE",
+   "nombre": "Pepe",
+   "simbolo": "PEPEUSDT"
+  },
+  {
+   "puesto": 60,
+   "ticker": "WLFI",
+   "nombre": "World Liberty Financial",
+   "simbolo": "WLFIUSDT"
+  },
+  {
+   "puesto": 67,
+   "ticker": "ETC",
+   "nombre": "Ethereum Classic",
+   "simbolo": "ETCUSDT"
+  },
+  {
+   "puesto": 68,
+   "ticker": "ARB",
+   "nombre": "Arbitrum",
+   "simbolo": "ARBUSDT"
+  },
+  {
+   "puesto": 74,
+   "ticker": "ALGO",
+   "nombre": "Algorand",
+   "simbolo": "ALGOUSDT"
+  },
+  {
+   "puesto": 75,
+   "ticker": "POL",
+   "nombre": "POL (ex-MATIC)",
+   "simbolo": "POLUSDT"
+  },
+  {
+   "puesto": 76,
+   "ticker": "JST",
+   "nombre": "JUST",
+   "simbolo": "JSTUSDT"
+  },
+  {
+   "puesto": 77,
+   "ticker": "JUP",
+   "nombre": "Jupiter",
+   "simbolo": "JUPUSDT"
+  },
+  {
+   "puesto": 79,
+   "ticker": "RENDER",
+   "nombre": "Render",
+   "simbolo": "RENDERUSDT"
+  },
+  {
+   "puesto": 82,
+   "ticker": "ATOM",
+   "nombre": "Cosmos Hub",
+   "simbolo": "ATOMUSDT"
+  },
+  {
+   "puesto": 84,
+   "ticker": "FIL",
+   "nombre": "Filecoin",
+   "simbolo": "FILUSDT"
+  },
+  {
+   "puesto": 85,
+   "ticker": "NEXO",
+   "nombre": "NEXO",
+   "simbolo": "NEXOUSDT"
+  },
+  {
+   "puesto": 86,
+   "ticker": "AERO",
+   "nombre": "Aerodrome Finance",
+   "simbolo": "AEROUSDT"
+  },
+  {
+   "puesto": 87,
+   "ticker": "CAKE",
+   "nombre": "PancakeSwap",
+   "simbolo": "CAKEUSDT"
+  },
+  {
+   "puesto": 88,
+   "ticker": "NIGHT",
+   "nombre": "Midnight",
+   "simbolo": "NIGHTUSDT"
+  },
+  {
+   "puesto": 90,
+   "ticker": "INJ",
+   "nombre": "Injective",
+   "simbolo": "INJUSDT"
+  },
+  {
+   "puesto": 91,
+   "ticker": "DASH",
+   "nombre": "Dash",
+   "simbolo": "DASHUSDT"
+  },
+  {
+   "puesto": 92,
+   "ticker": "VET",
+   "nombre": "VeChain",
+   "simbolo": "VETUSDT"
+  },
+  {
+   "puesto": 95,
+   "ticker": "STX",
+   "nombre": "Stacks",
+   "simbolo": "STXUSDT"
+  },
+  {
+   "puesto": 96,
+   "ticker": "ZRO",
+   "nombre": "LayerZero",
+   "simbolo": "ZROUSDT"
+  },
+  {
+   "puesto": 98,
+   "ticker": "ETHFI",
+   "nombre": "Ether.fi",
+   "simbolo": "ETHFIUSDT"
+  },
+  {
+   "puesto": 99,
+   "ticker": "APT",
+   "nombre": "Aptos",
+   "simbolo": "APTUSDT"
+  },
+  {
+   "puesto": 104,
+   "ticker": "PYTH",
+   "nombre": "Pyth Network",
+   "simbolo": "PYTHUSDT"
+  },
+  {
+   "puesto": 105,
+   "ticker": "CRV",
+   "nombre": "Curve DAO",
+   "simbolo": "CRVUSDT"
+  },
+  {
+   "puesto": 107,
+   "ticker": "PENGU",
+   "nombre": "Pudgy Penguins",
+   "simbolo": "PENGUUSDT"
+  },
+  {
+   "puesto": 109,
+   "ticker": "TRUMP",
+   "nombre": "Official Trump",
+   "simbolo": "TRUMPUSDT"
+  },
+  {
+   "puesto": 110,
+   "ticker": "RAY",
+   "nombre": "Raydium",
+   "simbolo": "RAYUSDT"
+  },
+  {
+   "puesto": 113,
+   "ticker": "VIRTUAL",
+   "nombre": "Virtuals Protocol",
+   "simbolo": "VIRTUALUSDT"
+  },
+  {
+   "puesto": 114,
+   "ticker": "FET",
+   "nombre": "Artificial Superintelligence Alliance",
+   "simbolo": "FETUSDT"
+  },
+  {
+   "puesto": 117,
+   "ticker": "币安人生",
+   "nombre": "币安人生 (BinanceLife)",
+   "simbolo": "币安人生USDT"
+  },
+  {
+   "puesto": 120,
+   "ticker": "SEI",
+   "nombre": "Sei",
+   "simbolo": "SEIUSDT"
+  },
+  {
+   "puesto": 123,
+   "ticker": "TIA",
+   "nombre": "Celestia",
+   "simbolo": "TIAUSDT"
+  },
+  {
+   "puesto": 124,
+   "ticker": "XPL",
+   "nombre": "Plasma",
+   "simbolo": "XPLUSDT"
+  },
+  {
+   "puesto": 125,
+   "ticker": "PENDLE",
+   "nombre": "Pendle",
+   "simbolo": "PENDLEUSDT"
+  },
+  {
+   "puesto": 128,
+   "ticker": "STRK",
+   "nombre": "Starknet",
+   "simbolo": "STRKUSDT"
+  },
+  {
+   "puesto": 131,
+   "ticker": "LDO",
+   "nombre": "Lido DAO",
+   "simbolo": "LDOUSDT"
+  },
+  {
+   "puesto": 132,
+   "ticker": "FF",
+   "nombre": "Falcon Finance",
+   "simbolo": "FFUSDT"
+  },
+  {
+   "puesto": 133,
+   "ticker": "KITE",
+   "nombre": "Kite",
+   "simbolo": "KITEUSDT"
+  },
+  {
+   "puesto": 134,
+   "ticker": "BTT",
+   "nombre": "BitTorrent",
+   "simbolo": "BTTCUSDT"
+  },
+  {
+   "puesto": 137,
+   "ticker": "XTZ",
+   "nombre": "Tezos",
+   "simbolo": "XTZUSDT"
+  },
+  {
+   "puesto": 140,
+   "ticker": "BONK",
+   "nombre": "Bonk",
+   "simbolo": "BONKUSDT"
+  },
+  {
+   "puesto": 142,
+   "ticker": "SUN",
+   "nombre": "Sun Token",
+   "simbolo": "SUNUSDT"
+  },
+  {
+   "puesto": 146,
+   "ticker": "DCR",
+   "nombre": "Decred",
+   "simbolo": "DCRUSDT"
+  },
+  {
+   "puesto": 149,
+   "ticker": "GNO",
+   "nombre": "Gnosis",
+   "simbolo": "GNOUSDT"
+  },
+  {
+   "puesto": 150,
+   "ticker": "OP",
+   "nombre": "Optimism",
+   "simbolo": "OPUSDT"
+  }
+ ],
+ "sin_spot_binance": [
+  {
+   "puesto": 3,
+   "ticker": "USDT",
+   "nombre": "Tether"
+  },
+  {
+   "puesto": 14,
+   "ticker": "XMR",
+   "nombre": "Monero"
+  },
+  {
+   "puesto": 18,
+   "ticker": "RAIN",
+   "nombre": "Rain"
+  },
+  {
+   "puesto": 25,
+   "ticker": "CC",
+   "nombre": "Canton"
+  },
+  {
+   "puesto": 42,
+   "ticker": "BTW",
+   "nombre": "Bitway"
+  },
+  {
+   "puesto": 48,
+   "ticker": "M",
+   "nombre": "MemeCore"
+  },
+  {
+   "puesto": 53,
+   "ticker": "MNT",
+   "nombre": "Mantle"
+  },
+  {
+   "puesto": 69,
+   "ticker": "VVV",
+   "nombre": "Venice Token"
+  },
+  {
+   "puesto": 73,
+   "ticker": "KAS",
+   "nombre": "Kaspa"
+  },
+  {
+   "puesto": 80,
+   "ticker": "PI",
+   "nombre": "Pi Network"
+  },
+  {
+   "puesto": 83,
+   "ticker": "LIT",
+   "nombre": "Lighter"
+  },
+  {
+   "puesto": 89,
+   "ticker": "AKE",
+   "nombre": "Akedo"
+  },
+  {
+   "puesto": 94,
+   "ticker": "STABLE",
+   "nombre": "​​Stable"
+  },
+  {
+   "puesto": 102,
+   "ticker": "XDC",
+   "nombre": "XDC Network"
+  },
+  {
+   "puesto": 103,
+   "ticker": "FLR",
+   "nombre": "Flare"
+  },
+  {
+   "puesto": 108,
+   "ticker": "BDX",
+   "nombre": "Beldex"
+  },
+  {
+   "puesto": 116,
+   "ticker": "GRASS",
+   "nombre": "Grass"
+  },
+  {
+   "puesto": 126,
+   "ticker": "SPX",
+   "nombre": "SPX6900"
+  },
+  {
+   "puesto": 127,
+   "ticker": "MON",
+   "nombre": "Monad"
+  },
+  {
+   "puesto": 129,
+   "ticker": "BSV",
+   "nombre": "Bitcoin SV"
+  },
+  {
+   "puesto": 130,
+   "ticker": "DRV",
+   "nombre": "Derive"
+  },
+  {
+   "puesto": 135,
+   "ticker": "PIEVERSE",
+   "nombre": "Pieverse"
+  },
+  {
+   "puesto": 136,
+   "ticker": "PRL",
+   "nombre": "Pearl"
+  },
+  {
+   "puesto": 139,
+   "ticker": "UB",
+   "nombre": "Unibase"
+  }
+ ]
+}
