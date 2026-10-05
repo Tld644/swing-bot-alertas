@@ -199,8 +199,11 @@ def main():
             errores.append(f"{m['ticker']} 4h: {crudo4}")
             continue
         d4 = preparar_4h(crudo4)
-        en_curso = d4.close_time.iloc[-1] >= ahora
-        for i, cerrada in ((len(d4) - 2, True), (len(d4) - 1, not en_curso)):
+        # se revisan todas las velas de 4h de las últimas 24 h: si GitHub atrasa corridas (pasó: huecos de 6-7 h),
+        # ningún toque se pierde; los ya enviados no se repiten por el estado
+        recientes = [i for i in range(len(d4)) if d4.open_time.iloc[i] >= ahora - pd.Timedelta(hours=24)]
+        for i in recientes:
+            cerrada = d4.close_time.iloc[i] < ahora
             a = toque_ema200_4h(d4, i)
             if a:
                 a["vela_4h_cerrada"] = cerrada
