@@ -1,5 +1,5 @@
 {
- "fecha_utc": "2026-10-04",
+ "fecha_utc": "2026-10-05",
  "monedas": [
   {
    "puesto": 1,
@@ -75,15 +75,15 @@
   },
   {
    "puesto": 21,
-   "ticker": "BCH",
-   "nombre": "Bitcoin Cash",
-   "simbolo": "BCHUSDT"
-  },
-  {
-   "puesto": 22,
    "ticker": "NEAR",
    "nombre": "NEAR Protocol",
    "simbolo": "NEARUSDT"
+  },
+  {
+   "puesto": 22,
+   "ticker": "BCH",
+   "nombre": "Bitcoin Cash",
+   "simbolo": "BCHUSDT"
   },
   {
    "puesto": 23,
@@ -99,15 +99,15 @@
   },
   {
    "puesto": 26,
-   "ticker": "AVAX",
-   "nombre": "Avalanche",
-   "simbolo": "AVAXUSDT"
-  },
-  {
-   "puesto": 28,
    "ticker": "SUI",
    "nombre": "Sui",
    "simbolo": "SUIUSDT"
+  },
+  {
+   "puesto": 28,
+   "ticker": "AVAX",
+   "nombre": "Avalanche",
+   "simbolo": "AVAXUSDT"
   },
   {
    "puesto": 30,
@@ -129,51 +129,51 @@
   },
   {
    "puesto": 34,
-   "ticker": "TAO",
-   "nombre": "Bittensor",
-   "simbolo": "TAOUSDT"
-  },
-  {
-   "puesto": 35,
    "ticker": "SHIB",
    "nombre": "Shiba Inu",
    "simbolo": "SHIBUSDT"
   },
   {
-   "puesto": 39,
+   "puesto": 35,
+   "ticker": "TAO",
+   "nombre": "Bittensor",
+   "simbolo": "TAOUSDT"
+  },
+  {
+   "puesto": 40,
    "ticker": "PUMP",
    "nombre": "Pump.fun",
    "simbolo": "PUMPUSDT"
   },
   {
-   "puesto": 41,
+   "puesto": 42,
    "ticker": "AAVE",
    "nombre": "Aave",
    "simbolo": "AAVEUSDT"
   },
   {
    "puesto": 45,
-   "ticker": "ONDO",
-   "nombre": "Ondo",
-   "simbolo": "ONDOUSDT"
-  },
-  {
-   "puesto": 46,
    "ticker": "ENA",
    "nombre": "Ethena",
    "simbolo": "ENAUSDT"
   },
   {
-   "puesto": 50,
-   "ticker": "WLD",
-   "nombre": "Worldcoin",
-   "simbolo": "WLDUSDT"
+   "puesto": 46,
+   "ticker": "ONDO",
+   "nombre": "Ondo",
+   "simbolo": "ONDOUSDT"
   },
   {
-   "puesto": 52,
+   "puesto": 50,
    "ticker": "SKY",
    "nombre": "Sky",
    "simbolo": "SKYUSDT"
+  },
+  {
+   "puesto": 52,
+   "ticker": "WLD",
+   "nombre": "Worldcoin",
+   "simbolo": "WLDUSDT"
   },
   {
    "puesto": 54,
@@ -183,15 +183,15 @@
   },
   {
    "puesto": 55,
-   "ticker": "MORPHO",
-   "nombre": "Morpho",
-   "simbolo": "MORPHOUSDT"
-  },
-  {
-   "puesto": 56,
    "ticker": "ASTER",
    "nombre": "Aster",
    "simbolo": "ASTERUSDT"
+  },
+  {
+   "puesto": 56,
+   "ticker": "MORPHO",
+   "nombre": "Morpho",
+   "simbolo": "MORPHOUSDT"
   },
   {
    "puesto": 57,
@@ -200,13 +200,13 @@
    "simbolo": "ICPUSDT"
   },
   {
-   "puesto": 59,
+   "puesto": 58,
    "ticker": "PEPE",
    "nombre": "Pepe",
    "simbolo": "PEPEUSDT"
   },
   {
-   "puesto": 60,
+   "puesto": 61,
    "ticker": "WLFI",
    "nombre": "World Liberty Financial",
    "simbolo": "WLFIUSDT"
@@ -218,13 +218,13 @@
    "simbolo": "ETCUSDT"
   },
   {
-   "puesto": 68,
+   "puesto": 69,
    "ticker": "ARB",
    "nombre": "Arbitrum",
    "simbolo": "ARBUSDT"
   },
   {
-   "puesto": 74,
+   "puesto": 72,
    "ticker": "ALGO",
    "nombre": "Algorand",
    "simbolo": "ALGOUSDT"
@@ -267,15 +267,15 @@
   },
   {
    "puesto": 85,
-   "ticker": "NEXO",
-   "nombre": "NEXO",
-   "simbolo": "NEXOUSDT"
-  },
-  {
-   "puesto": 86,
    "ticker": "AERO",
    "nombre": "Aerodrome Finance",
    "simbolo": "AEROUSDT"
+  },
+  {
+   "puesto": 86,
+   "ticker": "NEXO",
+   "nombre": "NEXO",
+   "simbolo": "NEXOUSDT"
   },
   {
    "puesto": 87,
@@ -284,52 +284,52 @@
    "simbolo": "CAKEUSDT"
   },
   {
-   "puesto": 88,
-   "ticker": "NIGHT",
-   "nombre": "Midnight",
-   "simbolo": "NIGHTUSDT"
-  },
-  {
-   "puesto": 90,
+   "puesto": 89,
    "ticker": "INJ",
    "nombre": "Injective",
    "simbolo": "INJUSDT"
   },
   {
-   "puesto": 91,
+   "puesto": 90,
    "ticker": "DASH",
    "nombre": "Dash",
    "simbolo": "DASHUSDT"
   },
   {
-   "puesto": 92,
+   "puesto": 91,
    "ticker": "VET",
    "nombre": "VeChain",
    "simbolo": "VETUSDT"
   },
   {
-   "puesto": 95,
+   "puesto": 93,
+   "ticker": "NIGHT",
+   "nombre": "Midnight",
+   "simbolo": "NIGHTUSDT"
+  },
+  {
+   "puesto": 94,
    "ticker": "STX",
    "nombre": "Stacks",
    "simbolo": "STXUSDT"
   },
   {
-   "puesto": 96,
-   "ticker": "ZRO",
-   "nombre": "LayerZero",
-   "simbolo": "ZROUSDT"
-  },
-  {
-   "puesto": 98,
+   "puesto": 95,
    "ticker": "ETHFI",
    "nombre": "Ether.fi",
    "simbolo": "ETHFIUSDT"
   },
   {
-   "puesto": 99,
+   "puesto": 98,
    "ticker": "APT",
    "nombre": "Aptos",
    "simbolo": "APTUSDT"
+  },
+  {
+   "puesto": 99,
+   "ticker": "ZRO",
+   "nombre": "LayerZero",
+   "simbolo": "ZROUSDT"
   },
   {
    "puesto": 104,
@@ -339,15 +339,21 @@
   },
   {
    "puesto": 105,
+   "ticker": "PENGU",
+   "nombre": "Pudgy Penguins",
+   "simbolo": "PENGUUSDT"
+  },
+  {
+   "puesto": 106,
    "ticker": "CRV",
    "nombre": "Curve DAO",
    "simbolo": "CRVUSDT"
   },
   {
    "puesto": 107,
-   "ticker": "PENGU",
-   "nombre": "Pudgy Penguins",
-   "simbolo": "PENGUUSDT"
+   "ticker": "FET",
+   "nombre": "Artificial Superintelligence Alliance",
+   "simbolo": "FETUSDT"
   },
   {
    "puesto": 109,
@@ -356,76 +362,64 @@
    "simbolo": "TRUMPUSDT"
   },
   {
-   "puesto": 110,
+   "puesto": 111,
    "ticker": "RAY",
    "nombre": "Raydium",
    "simbolo": "RAYUSDT"
   },
   {
-   "puesto": 113,
+   "puesto": 112,
    "ticker": "VIRTUAL",
    "nombre": "Virtuals Protocol",
    "simbolo": "VIRTUALUSDT"
   },
   {
-   "puesto": 114,
-   "ticker": "FET",
-   "nombre": "Artificial Superintelligence Alliance",
-   "simbolo": "FETUSDT"
-  },
-  {
-   "puesto": 117,
+   "puesto": 116,
    "ticker": "币安人生",
    "nombre": "币安人生 (BinanceLife)",
    "simbolo": "币安人生USDT"
   },
   {
-   "puesto": 120,
+   "puesto": 117,
    "ticker": "SEI",
    "nombre": "Sei",
    "simbolo": "SEIUSDT"
   },
   {
-   "puesto": 123,
+   "puesto": 122,
    "ticker": "TIA",
    "nombre": "Celestia",
    "simbolo": "TIAUSDT"
   },
   {
    "puesto": 124,
-   "ticker": "XPL",
-   "nombre": "Plasma",
-   "simbolo": "XPLUSDT"
-  },
-  {
-   "puesto": 125,
-   "ticker": "PENDLE",
-   "nombre": "Pendle",
-   "simbolo": "PENDLEUSDT"
-  },
-  {
-   "puesto": 128,
    "ticker": "STRK",
    "nombre": "Starknet",
    "simbolo": "STRKUSDT"
   },
   {
-   "puesto": 131,
-   "ticker": "LDO",
-   "nombre": "Lido DAO",
-   "simbolo": "LDOUSDT"
+   "puesto": 125,
+   "ticker": "XPL",
+   "nombre": "Plasma",
+   "simbolo": "XPLUSDT"
   },
   {
-   "puesto": 132,
+   "puesto": 126,
+   "ticker": "PENDLE",
+   "nombre": "Pendle",
+   "simbolo": "PENDLEUSDT"
+  },
+  {
+   "puesto": 131,
    "ticker": "FF",
    "nombre": "Falcon Finance",
    "simbolo": "FFUSDT"
   },
   {
-   "puesto": 133,
-   "ticker": "KITE",
-   "nombre": "Kite",
-   "simbolo": "KITEUSDT"
+   "puesto": 132,
+   "ticker": "LDO",
+   "nombre": "Lido DAO",
+   "simbolo": "LDOUSDT"
   },
   {
    "puesto": 134,
@@ -434,40 +428,46 @@
    "simbolo": "BTTCUSDT"
   },
   {
-   "puesto": 137,
+   "puesto": 135,
    "ticker": "XTZ",
    "nombre": "Tezos",
    "simbolo": "XTZUSDT"
   },
   {
-   "puesto": 140,
+   "puesto": 136,
+   "ticker": "KITE",
+   "nombre": "Kite",
+   "simbolo": "KITEUSDT"
+  },
+  {
+   "puesto": 138,
    "ticker": "BONK",
    "nombre": "Bonk",
    "simbolo": "BONKUSDT"
   },
   {
-   "puesto": 142,
+   "puesto": 143,
    "ticker": "SUN",
    "nombre": "Sun Token",
    "simbolo": "SUNUSDT"
   },
   {
-   "puesto": 146,
+   "puesto": 145,
    "ticker": "DCR",
    "nombre": "Decred",
    "simbolo": "DCRUSDT"
   },
   {
-   "puesto": 149,
-   "ticker": "GNO",
-   "nombre": "Gnosis",
-   "simbolo": "GNOUSDT"
+   "puesto": 147,
+   "ticker": "GRT",
+   "nombre": "The Graph",
+   "simbolo": "GRTUSDT"
   },
   {
    "puesto": 150,
-   "ticker": "OP",
-   "nombre": "Optimism",
-   "simbolo": "OPUSDT"
+   "ticker": "GNO",
+   "nombre": "Gnosis",
+   "simbolo": "GNOUSDT"
   }
  ],
  "sin_spot_binance": [
@@ -482,7 +482,7 @@
    "nombre": "Monero"
   },
   {
-   "puesto": 18,
+   "puesto": 19,
    "ticker": "RAIN",
    "nombre": "Rain"
   },
@@ -492,7 +492,7 @@
    "nombre": "Canton"
   },
   {
-   "puesto": 42,
+   "puesto": 37,
    "ticker": "BTW",
    "nombre": "Bitway"
   },
@@ -507,7 +507,7 @@
    "nombre": "Mantle"
   },
   {
-   "puesto": 69,
+   "puesto": 66,
    "ticker": "VVV",
    "nombre": "Venice Token"
   },
@@ -517,7 +517,7 @@
    "nombre": "Kaspa"
   },
   {
-   "puesto": 80,
+   "puesto": 81,
    "ticker": "PI",
    "nombre": "Pi Network"
   },
@@ -527,12 +527,12 @@
    "nombre": "Lighter"
   },
   {
-   "puesto": 89,
+   "puesto": 88,
    "ticker": "AKE",
    "nombre": "Akedo"
   },
   {
-   "puesto": 94,
+   "puesto": 96,
    "ticker": "STABLE",
    "nombre": "​​Stable"
   },
@@ -547,24 +547,24 @@
    "nombre": "Flare"
   },
   {
-   "puesto": 108,
+   "puesto": 110,
    "ticker": "BDX",
    "nombre": "Beldex"
   },
   {
-   "puesto": 116,
+   "puesto": 120,
    "ticker": "GRASS",
    "nombre": "Grass"
   },
   {
-   "puesto": 126,
-   "ticker": "SPX",
-   "nombre": "SPX6900"
+   "puesto": 127,
+   "ticker": "DRV",
+   "nombre": "Derive"
   },
   {
-   "puesto": 127,
-   "ticker": "MON",
-   "nombre": "Monad"
+   "puesto": 128,
+   "ticker": "SPX",
+   "nombre": "SPX6900"
   },
   {
    "puesto": 129,
@@ -573,16 +573,16 @@
   },
   {
    "puesto": 130,
-   "ticker": "DRV",
-   "nombre": "Derive"
+   "ticker": "MON",
+   "nombre": "Monad"
   },
   {
-   "puesto": 135,
+   "puesto": 133,
    "ticker": "PIEVERSE",
    "nombre": "Pieverse"
   },
   {
-   "puesto": 136,
+   "puesto": 137,
    "ticker": "PRL",
    "nombre": "Pearl"
   },
