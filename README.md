@@ -1,6 +1,6 @@
 # Escáner de alertas cripto
 
-Revisa cada 15 minutos las principales criptomonedas (top 150 por capitalización; precios de Binance spot, o de los perpetuos de Bitget/BingX si no hay spot) y avisa
+Revisa cada 15 minutos las principales criptomonedas (top 200 por capitalización con al menos 5 M USD de volumen diario; precios de Binance spot, o de los perpetuos de Bitget/BingX si no hay spot) y avisa
 por Telegram cuando el precio toca niveles de Fibonacci o medias móviles después de una suba, y al cierre diario
 cuando hay sobreventa o divergencias del RSI. Cada alerta trae un gráfico y la estadística histórica de esa situación.
 

@@ -1,5 +1,6 @@
-"""Universo de las alertas: top 150 por capitalización (CoinGecko), excluyendo stablecoins, oro, fondos
-tokenizados, tokens de otros exchanges y versiones envueltas.
+"""Universo de las alertas: top 200 por capitalización (CoinGecko), excluyendo stablecoins, oro, fondos
+tokenizados, tokens de otros exchanges y versiones envueltas, y con liquidez mínima: volumen de 24 h de al
+menos 5 millones de USD (decisión de 2026-10-05, para dejar afuera monedas muy finitas).
 
 Fuente de precios de cada moneda, en este orden:
   1. spot de Binance (par contra USDT);
@@ -24,6 +25,8 @@ NO_CRIPTO = {"PAXG", "XAUT", "KAU", "FIGR_HELOC", "USDY", "EURSAFO", "BCAP", "EU
              "BNSOL", "RETH", "LBTC", "SOLVBTC", "JITOSOL", "MSOL", "EZETH", "RSETH", "TBTC", "USDT", "USDC"}
 RENOMBRES = {"BTT": "BTTC"}   # ticker CoinGecko -> ticker en Binance
 TOLERANCIA = 0.05
+TOP = 200
+VOLUMEN_MINIMO = 5_000_000     # USD negociados en 24 h (CoinGecko)
 
 
 def es_stable(c):
@@ -51,7 +54,7 @@ def _precios_bingx():
     return {x["symbol"][:-5]: (x["symbol"], float(x["lastPrice"])) for x in d if x["symbol"].endswith("-USDT")}
 
 
-def construir(top=150):
+def construir(top=TOP):
     cg = requests.get("https://api.coingecko.com/api/v3/coins/markets",
                       params={"vs_currency": "usd", "order": "market_cap_desc", "per_page": top, "page": 1}, timeout=30).json()
     fuentes = []
@@ -64,6 +67,10 @@ def construir(top=150):
     for k, c in enumerate(cg, 1):
         tk = c["symbol"].upper()
         if tk in NO_CRIPTO or es_stable(c):
+            continue
+        if (c.get("total_volume") or 0) < VOLUMEN_MINIMO:
+            fuera.append({"puesto": k, "ticker": tk, "nombre": c["name"],
+                          "motivo": f"volumen 24 h de {(c.get('total_volume') or 0) / 1e6:.1f} M USD (mínimo 5 M)"})
             continue
         elegido, motivo = None, "no está en Binance spot, Bitget ni BingX"
         for nombre, tabla in fuentes:
