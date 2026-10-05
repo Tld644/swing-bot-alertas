@@ -91,6 +91,8 @@ def _min_precio(a):
 
 def texto_alerta(m, a, stats):
     tk = html.escape(m["ticker"])
+    if m.get("fuente", "binance") != "binance":   # precio tomado del perpetuo de otro exchange
+        tk += f" ({m['fuente'].capitalize()} perp.)"
     tipo = a["tipo"]
     if tipo.startswith("toque fibonacci"):
         f = tipo.split()[-1].replace(".", ",")

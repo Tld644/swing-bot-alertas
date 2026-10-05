@@ -27,7 +27,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from src.alertas import universo
+from src.alertas import fuentes, universo
 from src.alertas.deteccion import (divergencia_alcista_activa, escanear, preparar, preparar_4h, preparar_toques,
                                    toque_ema200_4h, toques)
 from src.alertas.grafico import graficar
@@ -131,9 +131,9 @@ def main():
     # descarga en paralelo (cada pedido tarda ~2 s; de a uno serían ~5 minutos por corrida)
     def bajar(m):
         out = {}
-        for clave, kw in (("1d", {}), ("4h", {"intervalo": "4h", "limite": 500})):
+        for clave, limite in (("1d", 1000), ("4h", 500)):
             try:
-                out[clave] = velas_diarias(m["simbolo"], incluir_en_curso=True, **kw)
+                out[clave] = fuentes.velas(m, clave, limite)    # Binance spot, Bitget o BingX según la moneda
             except Exception as e:   # una moneda con problemas no frena al resto
                 out[clave] = e
         return m["simbolo"], out
