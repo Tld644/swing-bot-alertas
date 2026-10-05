@@ -5,591 +5,710 @@
    "puesto": 1,
    "ticker": "BTC",
    "nombre": "Bitcoin",
-   "simbolo": "BTCUSDT"
+   "simbolo": "BTCUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 2,
    "ticker": "ETH",
    "nombre": "Ethereum",
-   "simbolo": "ETHUSDT"
+   "simbolo": "ETHUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 4,
    "ticker": "BNB",
    "nombre": "BNB",
-   "simbolo": "BNBUSDT"
+   "simbolo": "BNBUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 5,
    "ticker": "XRP",
    "nombre": "XRP",
-   "simbolo": "XRPUSDT"
+   "simbolo": "XRPUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 7,
    "ticker": "SOL",
    "nombre": "Solana",
-   "simbolo": "SOLUSDT"
+   "simbolo": "SOLUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 8,
    "ticker": "TRX",
    "nombre": "TRON",
-   "simbolo": "TRXUSDT"
+   "simbolo": "TRXUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 10,
    "ticker": "ZEC",
    "nombre": "Zcash",
-   "simbolo": "ZECUSDT"
+   "simbolo": "ZECUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 11,
    "ticker": "HYPE",
    "nombre": "Hyperliquid",
-   "simbolo": "HYPEUSDT"
+   "simbolo": "HYPEUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 12,
    "ticker": "DOGE",
    "nombre": "Dogecoin",
-   "simbolo": "DOGEUSDT"
+   "simbolo": "DOGEUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 13,
    "ticker": "LINK",
    "nombre": "Chainlink",
-   "simbolo": "LINKUSDT"
+   "simbolo": "LINKUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 17,
+   "puesto": 14,
+   "ticker": "XMR",
+   "nombre": "Monero",
+   "simbolo": "XMRUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 16,
    "ticker": "ADA",
    "nombre": "Cardano",
-   "simbolo": "ADAUSDT"
+   "simbolo": "ADAUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 20,
    "ticker": "XLM",
    "nombre": "Stellar",
-   "simbolo": "XLMUSDT"
+   "simbolo": "XLMUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 21,
    "ticker": "NEAR",
    "nombre": "NEAR Protocol",
-   "simbolo": "NEARUSDT"
+   "simbolo": "NEARUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 22,
    "ticker": "BCH",
    "nombre": "Bitcoin Cash",
-   "simbolo": "BCHUSDT"
+   "simbolo": "BCHUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 23,
    "ticker": "UNI",
    "nombre": "Uniswap",
-   "simbolo": "UNIUSDT"
+   "simbolo": "UNIUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 24,
    "ticker": "LTC",
    "nombre": "Litecoin",
-   "simbolo": "LTCUSDT"
+   "simbolo": "LTCUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 25,
+   "ticker": "SUI",
+   "nombre": "Sui",
+   "simbolo": "SUIUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 26,
-   "ticker": "SUI",
-   "nombre": "Sui",
-   "simbolo": "SUIUSDT"
+   "ticker": "CC",
+   "nombre": "Canton",
+   "simbolo": "CCUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 28,
    "ticker": "AVAX",
    "nombre": "Avalanche",
-   "simbolo": "AVAXUSDT"
+   "simbolo": "AVAXUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 30,
    "ticker": "HBAR",
    "nombre": "Hedera",
-   "simbolo": "HBARUSDT"
+   "simbolo": "HBARUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 32,
    "ticker": "GRAM",
    "nombre": "Gram (prev. Toncoin)",
-   "simbolo": "GRAMUSDT"
+   "simbolo": "GRAMUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 33,
    "ticker": "QNT",
    "nombre": "Quant",
-   "simbolo": "QNTUSDT"
+   "simbolo": "QNTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 34,
    "ticker": "SHIB",
    "nombre": "Shiba Inu",
-   "simbolo": "SHIBUSDT"
+   "simbolo": "SHIBUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 35,
    "ticker": "TAO",
    "nombre": "Bittensor",
-   "simbolo": "TAOUSDT"
+   "simbolo": "TAOUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 38,
+   "ticker": "BTW",
+   "nombre": "Bitway",
+   "simbolo": "BTWUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 40,
    "ticker": "PUMP",
    "nombre": "Pump.fun",
-   "simbolo": "PUMPUSDT"
+   "simbolo": "PUMPUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 42,
    "ticker": "AAVE",
    "nombre": "Aave",
-   "simbolo": "AAVEUSDT"
+   "simbolo": "AAVEUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 45,
    "ticker": "ENA",
    "nombre": "Ethena",
-   "simbolo": "ENAUSDT"
+   "simbolo": "ENAUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 46,
    "ticker": "ONDO",
    "nombre": "Ondo",
-   "simbolo": "ONDOUSDT"
+   "simbolo": "ONDOUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 50,
+   "puesto": 48,
+   "ticker": "M",
+   "nombre": "MemeCore",
+   "simbolo": "MUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 51,
    "ticker": "SKY",
    "nombre": "Sky",
-   "simbolo": "SKYUSDT"
+   "simbolo": "SKYUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 52,
    "ticker": "WLD",
    "nombre": "Worldcoin",
-   "simbolo": "WLDUSDT"
+   "simbolo": "WLDUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 53,
+   "ticker": "MNT",
+   "nombre": "Mantle",
+   "simbolo": "MNT-USDT",
+   "fuente": "bingx"
   },
   {
    "puesto": 54,
    "ticker": "DOT",
    "nombre": "Polkadot",
-   "simbolo": "DOTUSDT"
+   "simbolo": "DOTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 55,
    "ticker": "ASTER",
    "nombre": "Aster",
-   "simbolo": "ASTERUSDT"
+   "simbolo": "ASTERUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 56,
    "ticker": "MORPHO",
    "nombre": "Morpho",
-   "simbolo": "MORPHOUSDT"
+   "simbolo": "MORPHOUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 57,
    "ticker": "ICP",
    "nombre": "Internet Computer",
-   "simbolo": "ICPUSDT"
+   "simbolo": "ICPUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 58,
    "ticker": "PEPE",
    "nombre": "Pepe",
-   "simbolo": "PEPEUSDT"
+   "simbolo": "PEPEUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 61,
    "ticker": "WLFI",
    "nombre": "World Liberty Financial",
-   "simbolo": "WLFIUSDT"
+   "simbolo": "WLFIUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 66,
+   "ticker": "VVV",
+   "nombre": "Venice Token",
+   "simbolo": "VVVUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 67,
    "ticker": "ETC",
    "nombre": "Ethereum Classic",
-   "simbolo": "ETCUSDT"
+   "simbolo": "ETCUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 69,
    "ticker": "ARB",
    "nombre": "Arbitrum",
-   "simbolo": "ARBUSDT"
+   "simbolo": "ARBUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 72,
+   "puesto": 71,
+   "ticker": "KAS",
+   "nombre": "Kaspa",
+   "simbolo": "KASUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 73,
    "ticker": "ALGO",
    "nombre": "Algorand",
-   "simbolo": "ALGOUSDT"
+   "simbolo": "ALGOUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 75,
    "ticker": "POL",
    "nombre": "POL (ex-MATIC)",
-   "simbolo": "POLUSDT"
+   "simbolo": "POLUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 76,
    "ticker": "JST",
    "nombre": "JUST",
-   "simbolo": "JSTUSDT"
+   "simbolo": "JSTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 77,
    "ticker": "JUP",
    "nombre": "Jupiter",
-   "simbolo": "JUPUSDT"
+   "simbolo": "JUPUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 79,
    "ticker": "RENDER",
    "nombre": "Render",
-   "simbolo": "RENDERUSDT"
+   "simbolo": "RENDERUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 80,
+   "ticker": "PI",
+   "nombre": "Pi Network",
+   "simbolo": "PIUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 82,
    "ticker": "ATOM",
    "nombre": "Cosmos Hub",
-   "simbolo": "ATOMUSDT"
+   "simbolo": "ATOMUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 83,
+   "ticker": "LIT",
+   "nombre": "Lighter",
+   "simbolo": "LITUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 84,
    "ticker": "FIL",
    "nombre": "Filecoin",
-   "simbolo": "FILUSDT"
+   "simbolo": "FILUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 85,
-   "ticker": "AERO",
-   "nombre": "Aerodrome Finance",
-   "simbolo": "AEROUSDT"
+   "ticker": "NEXO",
+   "nombre": "NEXO",
+   "simbolo": "NEXOUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 86,
-   "ticker": "NEXO",
-   "nombre": "NEXO",
-   "simbolo": "NEXOUSDT"
+   "ticker": "AERO",
+   "nombre": "Aerodrome Finance",
+   "simbolo": "AEROUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 87,
    "ticker": "CAKE",
    "nombre": "PancakeSwap",
-   "simbolo": "CAKEUSDT"
+   "simbolo": "CAKEUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 88,
+   "ticker": "DASH",
+   "nombre": "Dash",
+   "simbolo": "DASHUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 89,
    "ticker": "INJ",
    "nombre": "Injective",
-   "simbolo": "INJUSDT"
+   "simbolo": "INJUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 90,
-   "ticker": "DASH",
-   "nombre": "Dash",
-   "simbolo": "DASHUSDT"
+   "ticker": "AKE",
+   "nombre": "Akedo",
+   "simbolo": "AKEUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 91,
    "ticker": "VET",
    "nombre": "VeChain",
-   "simbolo": "VETUSDT"
+   "simbolo": "VETUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 92,
+   "ticker": "STX",
+   "nombre": "Stacks",
+   "simbolo": "STXUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 93,
    "ticker": "NIGHT",
    "nombre": "Midnight",
-   "simbolo": "NIGHTUSDT"
-  },
-  {
-   "puesto": 94,
-   "ticker": "STX",
-   "nombre": "Stacks",
-   "simbolo": "STXUSDT"
+   "simbolo": "NIGHTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 95,
    "ticker": "ETHFI",
    "nombre": "Ether.fi",
-   "simbolo": "ETHFIUSDT"
+   "simbolo": "ETHFIUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 98,
+   "puesto": 96,
+   "ticker": "STABLE",
+   "nombre": "​​Stable",
+   "simbolo": "STABLEUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 97,
    "ticker": "APT",
    "nombre": "Aptos",
-   "simbolo": "APTUSDT"
+   "simbolo": "APTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 99,
    "ticker": "ZRO",
    "nombre": "LayerZero",
-   "simbolo": "ZROUSDT"
+   "simbolo": "ZROUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 104,
    "ticker": "PYTH",
    "nombre": "Pyth Network",
-   "simbolo": "PYTHUSDT"
+   "simbolo": "PYTHUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 105,
    "ticker": "PENGU",
    "nombre": "Pudgy Penguins",
-   "simbolo": "PENGUUSDT"
+   "simbolo": "PENGUUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 106,
-   "ticker": "CRV",
-   "nombre": "Curve DAO",
-   "simbolo": "CRVUSDT"
+   "ticker": "FET",
+   "nombre": "Artificial Superintelligence Alliance",
+   "simbolo": "FETUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 107,
-   "ticker": "FET",
-   "nombre": "Artificial Superintelligence Alliance",
-   "simbolo": "FETUSDT"
+   "ticker": "CRV",
+   "nombre": "Curve DAO",
+   "simbolo": "CRVUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 109,
    "ticker": "TRUMP",
    "nombre": "Official Trump",
-   "simbolo": "TRUMPUSDT"
+   "simbolo": "TRUMPUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 111,
    "ticker": "RAY",
    "nombre": "Raydium",
-   "simbolo": "RAYUSDT"
+   "simbolo": "RAYUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 112,
    "ticker": "VIRTUAL",
    "nombre": "Virtuals Protocol",
-   "simbolo": "VIRTUALUSDT"
+   "simbolo": "VIRTUALUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 116,
    "ticker": "币安人生",
    "nombre": "币安人生 (BinanceLife)",
-   "simbolo": "币安人生USDT"
+   "simbolo": "币安人生USDT",
+   "fuente": "binance"
   },
   {
    "puesto": 117,
    "ticker": "SEI",
    "nombre": "Sei",
-   "simbolo": "SEIUSDT"
+   "simbolo": "SEIUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 122,
+   "puesto": 120,
+   "ticker": "GRASS",
+   "nombre": "Grass",
+   "simbolo": "GRASSUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 121,
    "ticker": "TIA",
    "nombre": "Celestia",
-   "simbolo": "TIAUSDT"
+   "simbolo": "TIAUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 124,
    "ticker": "STRK",
    "nombre": "Starknet",
-   "simbolo": "STRKUSDT"
+   "simbolo": "STRKUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 125,
    "ticker": "XPL",
    "nombre": "Plasma",
-   "simbolo": "XPLUSDT"
+   "simbolo": "XPLUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 126,
    "ticker": "PENDLE",
    "nombre": "Pendle",
-   "simbolo": "PENDLEUSDT"
+   "simbolo": "PENDLEUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 127,
+   "ticker": "SPX",
+   "nombre": "SPX6900",
+   "simbolo": "SPXUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 129,
+   "ticker": "BSV",
+   "nombre": "Bitcoin SV",
+   "simbolo": "BSVUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 130,
+   "ticker": "MON",
+   "nombre": "Monad",
+   "simbolo": "MONUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 131,
    "ticker": "FF",
    "nombre": "Falcon Finance",
-   "simbolo": "FFUSDT"
+   "simbolo": "FFUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 132,
    "ticker": "LDO",
    "nombre": "Lido DAO",
-   "simbolo": "LDOUSDT"
+   "simbolo": "LDOUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 133,
+   "ticker": "BTT",
+   "nombre": "BitTorrent",
+   "simbolo": "BTTCUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 134,
-   "ticker": "BTT",
-   "nombre": "BitTorrent",
-   "simbolo": "BTTCUSDT"
-  },
-  {
-   "puesto": 135,
-   "ticker": "XTZ",
-   "nombre": "Tezos",
-   "simbolo": "XTZUSDT"
+   "ticker": "PIEVERSE",
+   "nombre": "Pieverse",
+   "simbolo": "PIEVERSEUSDT",
+   "fuente": "bitget"
   },
   {
    "puesto": 136,
+   "ticker": "XTZ",
+   "nombre": "Tezos",
+   "simbolo": "XTZUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 137,
    "ticker": "KITE",
    "nombre": "Kite",
-   "simbolo": "KITEUSDT"
+   "simbolo": "KITEUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 138,
    "ticker": "BONK",
    "nombre": "Bonk",
-   "simbolo": "BONKUSDT"
+   "simbolo": "BONKUSDT",
+   "fuente": "binance"
   },
   {
-   "puesto": 143,
+   "puesto": 139,
+   "ticker": "UB",
+   "nombre": "Unibase",
+   "simbolo": "UBUSDT",
+   "fuente": "bitget"
+  },
+  {
+   "puesto": 142,
    "ticker": "SUN",
    "nombre": "Sun Token",
-   "simbolo": "SUNUSDT"
+   "simbolo": "SUNUSDT",
+   "fuente": "binance"
+  },
+  {
+   "puesto": 144,
+   "ticker": "GRT",
+   "nombre": "The Graph",
+   "simbolo": "GRTUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 145,
    "ticker": "DCR",
    "nombre": "Decred",
-   "simbolo": "DCRUSDT"
-  },
-  {
-   "puesto": 147,
-   "ticker": "GRT",
-   "nombre": "The Graph",
-   "simbolo": "GRTUSDT"
+   "simbolo": "DCRUSDT",
+   "fuente": "binance"
   },
   {
    "puesto": 150,
    "ticker": "GNO",
    "nombre": "Gnosis",
-   "simbolo": "GNOUSDT"
+   "simbolo": "GNOUSDT",
+   "fuente": "binance"
   }
  ],
- "sin_spot_binance": [
-  {
-   "puesto": 3,
-   "ticker": "USDT",
-   "nombre": "Tether"
-  },
-  {
-   "puesto": 14,
-   "ticker": "XMR",
-   "nombre": "Monero"
-  },
+ "fuera": [
   {
    "puesto": 19,
    "ticker": "RAIN",
-   "nombre": "Rain"
-  },
-  {
-   "puesto": 25,
-   "ticker": "CC",
-   "nombre": "Canton"
-  },
-  {
-   "puesto": 37,
-   "ticker": "BTW",
-   "nombre": "Bitway"
-  },
-  {
-   "puesto": 48,
-   "ticker": "M",
-   "nombre": "MemeCore"
-  },
-  {
-   "puesto": 53,
-   "ticker": "MNT",
-   "nombre": "Mantle"
-  },
-  {
-   "puesto": 66,
-   "ticker": "VVV",
-   "nombre": "Venice Token"
-  },
-  {
-   "puesto": 73,
-   "ticker": "KAS",
-   "nombre": "Kaspa"
-  },
-  {
-   "puesto": 81,
-   "ticker": "PI",
-   "nombre": "Pi Network"
-  },
-  {
-   "puesto": 83,
-   "ticker": "LIT",
-   "nombre": "Lighter"
-  },
-  {
-   "puesto": 88,
-   "ticker": "AKE",
-   "nombre": "Akedo"
-  },
-  {
-   "puesto": 96,
-   "ticker": "STABLE",
-   "nombre": "​​Stable"
+   "nombre": "Rain",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
    "puesto": 102,
    "ticker": "XDC",
-   "nombre": "XDC Network"
+   "nombre": "XDC Network",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
    "puesto": 103,
    "ticker": "FLR",
-   "nombre": "Flare"
+   "nombre": "Flare",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
    "puesto": 110,
    "ticker": "BDX",
-   "nombre": "Beldex"
-  },
-  {
-   "puesto": 120,
-   "ticker": "GRASS",
-   "nombre": "Grass"
-  },
-  {
-   "puesto": 127,
-   "ticker": "DRV",
-   "nombre": "Derive"
+   "nombre": "Beldex",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
    "puesto": 128,
-   "ticker": "SPX",
-   "nombre": "SPX6900"
+   "ticker": "DRV",
+   "nombre": "Derive",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 129,
-   "ticker": "BSV",
-   "nombre": "Bitcoin SV"
-  },
-  {
-   "puesto": 130,
-   "ticker": "MON",
-   "nombre": "Monad"
-  },
-  {
-   "puesto": 133,
-   "ticker": "PIEVERSE",
-   "nombre": "Pieverse"
-  },
-  {
-   "puesto": 137,
+   "puesto": 135,
    "ticker": "PRL",
-   "nombre": "Pearl"
+   "nombre": "Pearl",
+   "motivo": "precio no coincide en bingx (¿otro token con el mismo ticker?)"
   },
   {
-   "puesto": 139,
-   "ticker": "UB",
-   "nombre": "Unibase"
+   "puesto": 149,
+   "ticker": "BP",
+   "nombre": "Backpack",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   }
  ]
 }
