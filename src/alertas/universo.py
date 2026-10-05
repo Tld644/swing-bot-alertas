@@ -27,6 +27,7 @@ RENOMBRES = {"BTT": "BTTC"}   # ticker CoinGecko -> ticker en Binance
 TOLERANCIA = 0.05
 TOP = 200
 VOLUMEN_MINIMO = 5_000_000     # USD negociados en 24 h (CoinGecko)
+CRITERIO = {"top": TOP, "volumen_minimo": VOLUMEN_MINIMO, "fuentes": ["binance", "bitget", "bingx"]}
 
 
 def es_stable(c):
@@ -87,7 +88,8 @@ def construir(top=TOP):
             monedas.append(elegido)
         else:
             fuera.append({"puesto": k, "ticker": tk, "nombre": c["name"], "motivo": motivo})
-    datos = {"fecha_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "monedas": monedas, "fuera": fuera}
+    datos = {"fecha_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "criterio": CRITERIO,
+             "monedas": monedas, "fuera": fuera}
     ARCHIVO.write_text(json.dumps(datos, ensure_ascii=False, indent=1), encoding="utf-8")
     return datos
 
@@ -96,6 +98,6 @@ def cargar():
     hoy = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     if ARCHIVO.exists():
         d = json.loads(ARCHIVO.read_text(encoding="utf-8"))
-        if d["fecha_utc"] == hoy and "fuera" in d:     # "fuera" = formato nuevo con Bitget/BingX
+        if d["fecha_utc"] == hoy and d.get("criterio") == CRITERIO:   # si cambia el criterio, se rearma ya
             return d
     return construir()
