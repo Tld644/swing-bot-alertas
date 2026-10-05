@@ -16,7 +16,10 @@
   "ADAUSDT|div|bajista regular|2026-09-22|formación": "2026-10-05 00:12",
   "FETUSDT|div|bajista regular|2026-09-25|formación": "2026-10-05 00:12",
   "VIRTUALUSDT|div|bajista regular|2026-09-27|formación": "2026-10-05 00:12",
-  "BONKUSDT|div|bajista regular|2026-09-24|formación": "2026-10-05 00:12"
+  "BONKUSDT|div|bajista regular|2026-09-24|formación": "2026-10-05 00:12",
+  "IOTAUSDT|div|bajista regular|2026-09-28|formación": "2026-10-05 02:42",
+  "AKTUSDT|div|bajista regular|2026-09-22|formación": "2026-10-05 02:42",
+  "MINAUSDT|div|bajista regular|2026-09-22|formación": "2026-10-05 02:42"
  },
  "abiertas": {
   "SOLUSDT|div|bajista regular|2026-09-21|formación": {
@@ -114,6 +117,30 @@
    "tipo": "divergencia bajista regular",
    "fecha": "2026-10-04",
    "invalidacion": 4.185943514695916e-06
+  },
+  "IOTAUSDT|div|bajista regular|2026-09-28|formación": {
+   "simbolo": "IOTAUSDT",
+   "ticker": "IOTA",
+   "clave": "div|bajista regular|2026-09-28",
+   "tipo": "divergencia bajista regular",
+   "fecha": "2026-10-04",
+   "invalidacion": 0.06157869583292366
+  },
+  "AKTUSDT|div|bajista regular|2026-09-22|formación": {
+   "simbolo": "AKTUSDT",
+   "ticker": "AKT",
+   "clave": "div|bajista regular|2026-09-22",
+   "tipo": "divergencia bajista regular",
+   "fecha": "2026-10-04",
+   "invalidacion": 0.7882096609523128
+  },
+  "MINAUSDT|div|bajista regular|2026-09-22|formación": {
+   "simbolo": "MINAUSDT",
+   "ticker": "MINA",
+   "clave": "div|bajista regular|2026-09-22",
+   "tipo": "divergencia bajista regular",
+   "fecha": "2026-10-04",
+   "invalidacion": 0.22653127456964967
   }
  },
  "cierres": {
@@ -190,7 +217,7 @@
   "SUNUSDT": "2026-10-04",
   "DCRUSDT": "2026-10-04",
   "GNOUSDT": "2026-10-04",
-  "OPUSDT": "2026-10-03",
+  "OPUSDT": "2026-10-04",
   "GRTUSDT": "2026-10-04",
   "XMRUSDT": "2026-10-04",
   "MUSDT": "2026-10-04",
@@ -205,6 +232,27 @@
   "BSVUSDT": "2026-10-04",
   "MONUSDT": "2026-10-04",
   "PIEVERSEUSDT": "2026-10-04",
-  "UBUSDT": "2026-10-04"
+  "UBUSDT": "2026-10-04",
+  "JTOUSDT": "2026-10-04",
+  "SYRUPUSDT": "2026-10-04",
+  "ARUSDT": "2026-10-04",
+  "LUNCUSDT": "2026-10-04",
+  "ENSUSDT": "2026-10-04",
+  "FLOKIUSDT": "2026-10-04",
+  "IOTAUSDT": "2026-10-04",
+  "JASMYUSDT": "2026-10-04",
+  "RUNEUSDT": "2026-10-04",
+  "COMPUSDT": "2026-10-04",
+  "EIGENUSDT": "2026-10-04",
+  "WIFUSDT": "2026-10-04",
+  "USELESSUSDT": "2026-10-04",
+  "THETAUSDT": "2026-10-04",
+  "AXSUSDT": "2026-10-04",
+  "AKTUSDT": "2026-10-04",
+  "2ZUSDT": "2026-10-04",
+  "SANDUSDT": "2026-10-04",
+  "MINAUSDT": "2026-10-04",
+  "MANAUSDT": "2026-10-04",
+  "FARTCOINUSDT": "2026-10-04"
  }
 }
