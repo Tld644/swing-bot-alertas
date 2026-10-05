@@ -2,7 +2,7 @@ name: Escáner de alertas
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos (GitHub a veces lo atrasa unos minutos)
+    - cron: "7,22,37,52 * * * *"   # cada 15 minutos, en minutos "raros" (a las :00 y :30 GitHub se satura y atrasa)
   workflow_dispatch:          # permite correrlo a mano desde GitHub
 
 permissions:

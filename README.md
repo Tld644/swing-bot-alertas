@@ -1,6 +1,6 @@
 # Escáner de alertas cripto
 
-Revisa cada 30 minutos las principales criptomonedas (top por capitalización con par spot USDT en Binance) y avisa
+Revisa cada 15 minutos las principales criptomonedas (top por capitalización con par spot USDT en Binance) y avisa
 por Telegram cuando el precio toca niveles de Fibonacci o medias móviles después de una suba, y al cierre diario
 cuando hay sobreventa o divergencias del RSI. Cada alerta trae un gráfico y la estadística histórica de esa situación.
 
