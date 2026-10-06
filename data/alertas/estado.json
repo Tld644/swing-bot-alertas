@@ -27,7 +27,10 @@
   "APTUSDT|div|bajista regular|2026-09-22|formación": "2026-10-06 00:29",
   "RAYUSDT|div|bajista regular|2026-09-24|formación": "2026-10-06 00:29",
   "SPXUSDT|ema20s|2026-10-05|": "2026-10-06 03:19",
-  "FARTCOINUSDT|ema200_4h|2026-10-06 00|": "2026-10-06 03:19"
+  "FARTCOINUSDT|ema200_4h|2026-10-06 00|": "2026-10-06 03:19",
+  "MNT-USDT|ema100|2026-10-06|": "2026-10-06 16:39",
+  "MNT-USDT|ema20s|2026-10-05|": "2026-10-06 16:39",
+  "MNT-USDT|ema200_4h|2026-10-06 16|": "2026-10-06 16:39"
  },
  "abiertas": {
   "SOLUSDT|div|bajista regular|2026-09-21|formación": {
