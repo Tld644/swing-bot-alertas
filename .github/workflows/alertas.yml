@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "escaner-alertas"
           git config user.email "escaner-alertas@users.noreply.github.com"
-          git add data/alertas/estado.json data/alertas/universo.json
+          git add data/alertas/estado.json data/alertas/universo.json data/alertas/volumen_historial.json
           git diff --cached --quiet || git commit -m "Estado de alertas $(date -u +'%F %H:%M')"
           git pull --rebase
           git push
