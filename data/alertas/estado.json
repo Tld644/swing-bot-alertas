@@ -173,7 +173,9 @@
   "TWTUSDT|ema100|2026-10-08|": "2026-10-08 17:37",
   "TIAUSDT|div|bajista regular|2026-09-22|formación": "2026-10-09 00:32",
   "SENTUSDT|div|bajista regular|2026-09-25|formación": "2026-10-09 00:32",
-  "KMNOUSDT|ema200_4h|2026-10-09 08|": "2026-10-09 12:01"
+  "KMNOUSDT|ema200_4h|2026-10-09 08|": "2026-10-09 12:01",
+  "ALGOUSDT|ema200_4h|2026-10-09 16|": "2026-10-09 19:48",
+  "KMNOUSDT|fib0.618|2026-09-01|": "2026-10-09 19:48"
  },
  "abiertas": {
   "SOLUSDT|div|bajista regular|2026-09-21|formación": {
