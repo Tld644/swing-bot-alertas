@@ -183,7 +183,8 @@
   "FILUSDT|div|bajista regular|2026-10-05|formación": "2026-10-12 00:31",
   "GRASSUSDT|div|bajista regular|2026-09-27|formación": "2026-10-12 00:31",
   "EIGENUSDT|div|bajista regular|2026-10-03|formación": "2026-10-12 00:31",
-  "UBUSDT|ema100|2026-10-12|": "2026-10-12 14:43"
+  "UBUSDT|ema100|2026-10-12|": "2026-10-12 14:43",
+  "METUSDT|fib0.618|2026-10-02|": "2026-10-12 17:01"
  },
  "abiertas": {
   "MINAUSDT|div|bajista regular|2026-09-22|formación": {
