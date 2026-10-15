@@ -1,5 +1,5 @@
 {
- "fecha_utc": "2026-10-14",
+ "fecha_utc": "2026-10-15",
  "criterio": {
   "top": 200,
   "volumen_minimo": 5000000,
@@ -17,7 +17,7 @@
    "nombre": "Bitcoin",
    "simbolo": "BTCUSDT",
    "fuente": "binance",
-   "volumen_30d": 31832467420
+   "volumen_30d": 31880020133
   },
   {
    "puesto": 2,
@@ -25,7 +25,7 @@
    "nombre": "Ethereum",
    "simbolo": "ETHUSDT",
    "fuente": "binance",
-   "volumen_30d": 13969008520
+   "volumen_30d": 13895721104
   },
   {
    "puesto": 4,
@@ -33,7 +33,7 @@
    "nombre": "BNB",
    "simbolo": "BNBUSDT",
    "fuente": "binance",
-   "volumen_30d": 931701781
+   "volumen_30d": 919010830
   },
   {
    "puesto": 5,
@@ -41,7 +41,7 @@
    "nombre": "XRP",
    "simbolo": "XRPUSDT",
    "fuente": "binance",
-   "volumen_30d": 3235669218
+   "volumen_30d": 3154842070
   },
   {
    "puesto": 7,
@@ -49,7 +49,7 @@
    "nombre": "Solana",
    "simbolo": "SOLUSDT",
    "fuente": "binance",
-   "volumen_30d": 3721026321
+   "volumen_30d": 3715838186
   },
   {
    "puesto": 8,
@@ -57,7 +57,7 @@
    "nombre": "TRON",
    "simbolo": "TRXUSDT",
    "fuente": "binance",
-   "volumen_30d": 375726832
+   "volumen_30d": 378544829
   },
   {
    "puesto": 10,
@@ -65,7 +65,7 @@
    "nombre": "Zcash",
    "simbolo": "ZECUSDT",
    "fuente": "binance",
-   "volumen_30d": 1182428511
+   "volumen_30d": 1169336840
   },
   {
    "puesto": 11,
@@ -73,7 +73,7 @@
    "nombre": "Hyperliquid",
    "simbolo": "HYPEUSDT",
    "fuente": "binance",
-   "volumen_30d": 916561371
+   "volumen_30d": 912500681
   },
   {
    "puesto": 12,
@@ -81,7 +81,7 @@
    "nombre": "Dogecoin",
    "simbolo": "DOGEUSDT",
    "fuente": "binance",
-   "volumen_30d": 966146195
+   "volumen_30d": 969673223
   },
   {
    "puesto": 13,
@@ -89,7 +89,7 @@
    "nombre": "Monero",
    "simbolo": "XMRUSDT",
    "fuente": "bitget",
-   "volumen_30d": 124529342
+   "volumen_30d": 123406682
   },
   {
    "puesto": 15,
@@ -97,7 +97,7 @@
    "nombre": "Chainlink",
    "simbolo": "LINKUSDT",
    "fuente": "binance",
-   "volumen_30d": 499914139
+   "volumen_30d": 497049597
   },
   {
    "puesto": 17,
@@ -105,63 +105,55 @@
    "nombre": "Cardano",
    "simbolo": "ADAUSDT",
    "fuente": "binance",
-   "volumen_30d": 558392980
+   "volumen_30d": 556256156
   },
   {
    "puesto": 20,
-   "ticker": "NEAR",
-   "nombre": "NEAR Protocol",
-   "simbolo": "NEARUSDT",
-   "fuente": "binance",
-   "volumen_30d": 1191799680
-  },
-  {
-   "puesto": 21,
    "ticker": "XLM",
    "nombre": "Stellar",
    "simbolo": "XLMUSDT",
    "fuente": "binance",
-   "volumen_30d": 277084613
+   "volumen_30d": 270964939
+  },
+  {
+   "puesto": 21,
+   "ticker": "NEAR",
+   "nombre": "NEAR Protocol",
+   "simbolo": "NEARUSDT",
+   "fuente": "binance",
+   "volumen_30d": 1213996412
   },
   {
    "puesto": 22,
-   "ticker": "BTW",
-   "nombre": "Bitway",
-   "simbolo": "BTWUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 28208894
-  },
-  {
-   "puesto": 23,
    "ticker": "BCH",
    "nombre": "Bitcoin Cash",
    "simbolo": "BCHUSDT",
    "fuente": "binance",
-   "volumen_30d": 284031270
+   "volumen_30d": 283808345
   },
   {
    "puesto": 24,
-   "ticker": "CC",
-   "nombre": "Canton",
-   "simbolo": "CCUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 19475470
-  },
-  {
-   "puesto": 25,
    "ticker": "LTC",
    "nombre": "Litecoin",
    "simbolo": "LTCUSDT",
    "fuente": "binance",
-   "volumen_30d": 415815007
+   "volumen_30d": 418049285
   },
   {
-   "puesto": 26,
+   "puesto": 25,
+   "ticker": "CC",
+   "nombre": "Canton",
+   "simbolo": "CCUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 19945231
+  },
+  {
+   "puesto": 27,
    "ticker": "UNI",
    "nombre": "Uniswap",
    "simbolo": "UNIUSDT",
    "fuente": "binance",
-   "volumen_30d": 853065739
+   "volumen_30d": 853239559
   },
   {
    "puesto": 28,
@@ -169,39 +161,47 @@
    "nombre": "Avalanche",
    "simbolo": "AVAXUSDT",
    "fuente": "binance",
-   "volumen_30d": 555992536
+   "volumen_30d": 557479798
   },
   {
-   "puesto": 30,
+   "puesto": 29,
    "ticker": "SUI",
    "nombre": "Sui",
    "simbolo": "SUIUSDT",
    "fuente": "binance",
-   "volumen_30d": 859355229
+   "volumen_30d": 858688046
   },
   {
-   "puesto": 32,
+   "puesto": 31,
    "ticker": "GRAM",
    "nombre": "Gram (prev. Toncoin)",
    "simbolo": "GRAMUSDT",
    "fuente": "binance",
-   "volumen_30d": 55664717
+   "volumen_30d": 55855046
   },
   {
-   "puesto": 33,
+   "puesto": 32,
    "ticker": "HBAR",
    "nombre": "Hedera",
    "simbolo": "HBARUSDT",
    "fuente": "binance",
-   "volumen_30d": 193022115
+   "volumen_30d": 194268217
   },
   {
-   "puesto": 35,
+   "puesto": 33,
+   "ticker": "BTW",
+   "nombre": "Bitway",
+   "simbolo": "BTWUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 30429024
+  },
+  {
+   "puesto": 36,
    "ticker": "TAO",
    "nombre": "Bittensor",
    "simbolo": "TAOUSDT",
    "fuente": "binance",
-   "volumen_30d": 260225502
+   "volumen_30d": 259979983
   },
   {
    "puesto": 37,
@@ -209,7 +209,7 @@
    "nombre": "Quant",
    "simbolo": "QNTUSDT",
    "fuente": "binance",
-   "volumen_30d": 259689928
+   "volumen_30d": 263353769
   },
   {
    "puesto": 38,
@@ -217,7 +217,7 @@
    "nombre": "Shiba Inu",
    "simbolo": "SHIBUSDT",
    "fuente": "binance",
-   "volumen_30d": 95280527
+   "volumen_30d": 95109680
   },
   {
    "puesto": 41,
@@ -225,31 +225,31 @@
    "nombre": "Ethena",
    "simbolo": "ENAUSDT",
    "fuente": "binance",
-   "volumen_30d": 480866160
+   "volumen_30d": 483250480
   },
   {
-   "puesto": 43,
+   "puesto": 45,
    "ticker": "AAVE",
    "nombre": "Aave",
    "simbolo": "AAVEUSDT",
    "fuente": "binance",
-   "volumen_30d": 334368411
+   "volumen_30d": 333943592
   },
   {
-   "puesto": 46,
+   "puesto": 47,
    "ticker": "PUMP",
    "nombre": "Pump.fun",
    "simbolo": "PUMPUSDT",
    "fuente": "binance",
-   "volumen_30d": 261460288
+   "volumen_30d": 263558565
   },
   {
-   "puesto": 48,
+   "puesto": 49,
    "ticker": "ONDO",
    "nombre": "Ondo",
    "simbolo": "ONDOUSDT",
    "fuente": "binance",
-   "volumen_30d": 282160666
+   "volumen_30d": 283821534
   },
   {
    "puesto": 50,
@@ -257,39 +257,31 @@
    "nombre": "Polkadot",
    "simbolo": "DOTUSDT",
    "fuente": "binance",
-   "volumen_30d": 196263400
+   "volumen_30d": 197112030
   },
   {
-   "puesto": 51,
-   "ticker": "WLD",
-   "nombre": "Worldcoin",
-   "simbolo": "WLDUSDT",
-   "fuente": "binance",
-   "volumen_30d": 335890063
-  },
-  {
-   "puesto": 53,
+   "puesto": 52,
    "ticker": "ASTER",
    "nombre": "Aster",
    "simbolo": "ASTERUSDT",
    "fuente": "binance",
-   "volumen_30d": 120865580
+   "volumen_30d": 120514059
   },
   {
-   "puesto": 54,
+   "puesto": 53,
+   "ticker": "WLD",
+   "nombre": "Worldcoin",
+   "simbolo": "WLDUSDT",
+   "fuente": "binance",
+   "volumen_30d": 337981522
+  },
+  {
+   "puesto": 55,
    "ticker": "WLFI",
    "nombre": "World Liberty Financial",
    "simbolo": "WLFIUSDT",
    "fuente": "binance",
-   "volumen_30d": 35662570
-  },
-  {
-   "puesto": 56,
-   "ticker": "SKY",
-   "nombre": "Sky",
-   "simbolo": "SKYUSDT",
-   "fuente": "binance",
-   "volumen_30d": 22396246
+   "volumen_30d": 35222377
   },
   {
    "puesto": 58,
@@ -297,7 +289,7 @@
    "nombre": "Mantle",
    "simbolo": "MNT-USDT",
    "fuente": "bingx",
-   "volumen_30d": 34276669
+   "volumen_30d": 34176899
   },
   {
    "puesto": 59,
@@ -305,39 +297,47 @@
    "nombre": "Pepe",
    "simbolo": "PEPEUSDT",
    "fuente": "binance",
-   "volumen_30d": 325779708
+   "volumen_30d": 327369252
   },
   {
-   "puesto": 61,
+   "puesto": 60,
    "ticker": "ICP",
    "nombre": "Internet Computer",
    "simbolo": "ICPUSDT",
    "fuente": "binance",
-   "volumen_30d": 78454155
+   "volumen_30d": 78832004
   },
   {
    "puesto": 62,
+   "ticker": "SKY",
+   "nombre": "Sky",
+   "simbolo": "SKYUSDT",
+   "fuente": "binance",
+   "volumen_30d": 22440603
+  },
+  {
+   "puesto": 63,
    "ticker": "MORPHO",
    "nombre": "Morpho",
    "simbolo": "MORPHOUSDT",
    "fuente": "binance",
-   "volumen_30d": 31029324
+   "volumen_30d": 31159138
   },
   {
    "puesto": 68,
-   "ticker": "ARB",
-   "nombre": "Arbitrum",
-   "simbolo": "ARBUSDT",
-   "fuente": "binance",
-   "volumen_30d": 293678894
-  },
-  {
-   "puesto": 69,
    "ticker": "ETC",
    "nombre": "Ethereum Classic",
    "simbolo": "ETCUSDT",
    "fuente": "binance",
-   "volumen_30d": 74454386
+   "volumen_30d": 74568556
+  },
+  {
+   "puesto": 70,
+   "ticker": "ARB",
+   "nombre": "Arbitrum",
+   "simbolo": "ARBUSDT",
+   "fuente": "binance",
+   "volumen_30d": 293748993
   },
   {
    "puesto": 71,
@@ -345,15 +345,15 @@
    "nombre": "JUST",
    "simbolo": "JSTUSDT",
    "fuente": "binance",
-   "volumen_30d": 30540071
+   "volumen_30d": 31156881
   },
   {
-   "puesto": 73,
+   "puesto": 72,
    "ticker": "VVV",
    "nombre": "Venice Token",
    "simbolo": "VVVUSDT",
    "fuente": "bitget",
-   "volumen_30d": 53004750
+   "volumen_30d": 52760823
   },
   {
    "puesto": 74,
@@ -361,15 +361,23 @@
    "nombre": "Jupiter",
    "simbolo": "JUPUSDT",
    "fuente": "binance",
-   "volumen_30d": 96747748
+   "volumen_30d": 96768446
   },
   {
-   "puesto": 76,
+   "puesto": 75,
    "ticker": "ALGO",
    "nombre": "Algorand",
    "simbolo": "ALGOUSDT",
    "fuente": "binance",
-   "volumen_30d": 82899404
+   "volumen_30d": 83395175
+  },
+  {
+   "puesto": 76,
+   "ticker": "KAS",
+   "nombre": "Kaspa",
+   "simbolo": "KASUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 18152082
   },
   {
    "puesto": 77,
@@ -377,15 +385,7 @@
    "nombre": "POL (ex-MATIC)",
    "simbolo": "POLUSDT",
    "fuente": "binance",
-   "volumen_30d": 100012015
-  },
-  {
-   "puesto": 78,
-   "ticker": "KAS",
-   "nombre": "Kaspa",
-   "simbolo": "KASUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 18081768
+   "volumen_30d": 100288263
   },
   {
    "puesto": 79,
@@ -393,23 +393,23 @@
    "nombre": "Render",
    "simbolo": "RENDERUSDT",
    "fuente": "binance",
-   "volumen_30d": 77940766
+   "volumen_30d": 79408515
   },
   {
-   "puesto": 80,
+   "puesto": 81,
    "ticker": "ATOM",
    "nombre": "Cosmos Hub",
    "simbolo": "ATOMUSDT",
    "fuente": "binance",
-   "volumen_30d": 69706149
+   "volumen_30d": 69910095
   },
   {
-   "puesto": 81,
+   "puesto": 82,
    "ticker": "FIL",
    "nombre": "Filecoin",
    "simbolo": "FILUSDT",
    "fuente": "binance",
-   "volumen_30d": 176561444
+   "volumen_30d": 172540555
   },
   {
    "puesto": 83,
@@ -417,7 +417,7 @@
    "nombre": "Aerodrome Finance",
    "simbolo": "AEROUSDT",
    "fuente": "binance",
-   "volumen_30d": 65070429
+   "volumen_30d": 66455382
   },
   {
    "puesto": 84,
@@ -425,15 +425,7 @@
    "nombre": "Pi Network",
    "simbolo": "PIUSDT",
    "fuente": "bitget",
-   "volumen_30d": 6857258
-  },
-  {
-   "puesto": 85,
-   "ticker": "LIT",
-   "nombre": "Lighter",
-   "simbolo": "LITUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 105003882
+   "volumen_30d": 6810292
   },
   {
    "puesto": 87,
@@ -441,119 +433,119 @@
    "nombre": "Stacks",
    "simbolo": "STXUSDT",
    "fuente": "binance",
-   "volumen_30d": 38925536
+   "volumen_30d": 39337191
   },
   {
-   "puesto": 88,
+   "puesto": 89,
+   "ticker": "LIT",
+   "nombre": "Lighter",
+   "simbolo": "LITUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 103528917
+  },
+  {
+   "puesto": 90,
    "ticker": "INJ",
    "nombre": "Injective",
    "simbolo": "INJUSDT",
    "fuente": "binance",
-   "volumen_30d": 140089667
+   "volumen_30d": 141073827
   },
   {
-   "puesto": 90,
+   "puesto": 91,
    "ticker": "ZRO",
    "nombre": "LayerZero",
    "simbolo": "ZROUSDT",
    "fuente": "binance",
-   "volumen_30d": 108822913
+   "volumen_30d": 110646925
   },
   {
    "puesto": 92,
-   "ticker": "APT",
-   "nombre": "Aptos",
-   "simbolo": "APTUSDT",
-   "fuente": "binance",
-   "volumen_30d": 105989643
-  },
-  {
-   "puesto": 93,
-   "ticker": "NIGHT",
-   "nombre": "Midnight",
-   "simbolo": "NIGHTUSDT",
-   "fuente": "binance",
-   "volumen_30d": 26881467
-  },
-  {
-   "puesto": 94,
-   "ticker": "CAKE",
-   "nombre": "PancakeSwap",
-   "simbolo": "CAKEUSDT",
-   "fuente": "binance",
-   "volumen_30d": 84078935
-  },
-  {
-   "puesto": 95,
    "ticker": "STABLE",
    "nombre": "​​Stable",
    "simbolo": "STABLEUSDT",
    "fuente": "bitget",
-   "volumen_30d": 9587708
+   "volumen_30d": 9553556
   },
   {
-   "puesto": 99,
-   "ticker": "ETHFI",
-   "nombre": "Ether.fi",
-   "simbolo": "ETHFIUSDT",
+   "puesto": 93,
+   "ticker": "APT",
+   "nombre": "Aptos",
+   "simbolo": "APTUSDT",
    "fuente": "binance",
-   "volumen_30d": 52440493
+   "volumen_30d": 106049810
   },
   {
-   "puesto": 100,
-   "ticker": "DASH",
-   "nombre": "Dash",
-   "simbolo": "DASHUSDT",
+   "puesto": 94,
+   "ticker": "NIGHT",
+   "nombre": "Midnight",
+   "simbolo": "NIGHTUSDT",
    "fuente": "binance",
-   "volumen_30d": 125643092
+   "volumen_30d": 27159384
   },
   {
-   "puesto": 101,
-   "ticker": "STRK",
-   "nombre": "Starknet",
-   "simbolo": "STRKUSDT",
+   "puesto": 95,
+   "ticker": "CAKE",
+   "nombre": "PancakeSwap",
+   "simbolo": "CAKEUSDT",
    "fuente": "binance",
-   "volumen_30d": 142525738
+   "volumen_30d": 84545823
   },
   {
-   "puesto": 103,
-   "ticker": "VET",
-   "nombre": "VeChain",
-   "simbolo": "VETUSDT",
-   "fuente": "binance",
-   "volumen_30d": 12683016
-  },
-  {
-   "puesto": 104,
+   "puesto": 98,
    "ticker": "PYTH",
    "nombre": "Pyth Network",
    "simbolo": "PYTHUSDT",
    "fuente": "binance",
-   "volumen_30d": 42983088
+   "volumen_30d": 45259904
   },
   {
-   "puesto": 108,
+   "puesto": 102,
+   "ticker": "DASH",
+   "nombre": "Dash",
+   "simbolo": "DASHUSDT",
+   "fuente": "binance",
+   "volumen_30d": 124172429
+  },
+  {
+   "puesto": 103,
    "ticker": "AKE",
    "nombre": "Akedo",
    "simbolo": "AKEUSDT",
    "fuente": "bitget",
-   "volumen_30d": 34945323
+   "volumen_30d": 34930997
   },
   {
-   "puesto": 109,
+   "puesto": 104,
+   "ticker": "ETHFI",
+   "nombre": "Ether.fi",
+   "simbolo": "ETHFIUSDT",
+   "fuente": "binance",
+   "volumen_30d": 52183632
+  },
+  {
+   "puesto": 105,
+   "ticker": "VET",
+   "nombre": "VeChain",
+   "simbolo": "VETUSDT",
+   "fuente": "binance",
+   "volumen_30d": 12477226
+  },
+  {
+   "puesto": 108,
+   "ticker": "STRK",
+   "nombre": "Starknet",
+   "simbolo": "STRKUSDT",
+   "fuente": "binance",
+   "volumen_30d": 147140565
+  },
+  {
+   "puesto": 110,
    "ticker": "TIA",
    "nombre": "Celestia",
    "simbolo": "TIAUSDT",
    "fuente": "binance",
-   "volumen_30d": 78676887
-  },
-  {
-   "puesto": 110,
-   "ticker": "RAY",
-   "nombre": "Raydium",
-   "simbolo": "RAYUSDT",
-   "fuente": "binance",
-   "volumen_30d": 74161860
+   "volumen_30d": 80277824
   },
   {
    "puesto": 112,
@@ -561,7 +553,7 @@
    "nombre": "Official Trump",
    "simbolo": "TRUMPUSDT",
    "fuente": "binance",
-   "volumen_30d": 217928102
+   "volumen_30d": 215626173
   },
   {
    "puesto": 113,
@@ -569,39 +561,39 @@
    "nombre": "Curve DAO",
    "simbolo": "CRVUSDT",
    "fuente": "binance",
-   "volumen_30d": 77632257
+   "volumen_30d": 77762757
   },
   {
    "puesto": 115,
+   "ticker": "RAY",
+   "nombre": "Raydium",
+   "simbolo": "RAYUSDT",
+   "fuente": "binance",
+   "volumen_30d": 74225954
+  },
+  {
+   "puesto": 118,
    "ticker": "币安人生",
    "nombre": "币安人生 (BinanceLife)",
    "simbolo": "币安人生USDT",
    "fuente": "binance",
-   "volumen_30d": 5121813
+   "volumen_30d": 5200648
   },
   {
-   "puesto": 116,
-   "ticker": "GRASS",
-   "nombre": "Grass",
-   "simbolo": "GRASSUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 42232730
-  },
-  {
-   "puesto": 117,
-   "ticker": "FET",
-   "nombre": "Artificial Superintelligence Alliance",
-   "simbolo": "FETUSDT",
-   "fuente": "binance",
-   "volumen_30d": 142284804
-  },
-  {
-   "puesto": 118,
+   "puesto": 119,
    "ticker": "PENGU",
    "nombre": "Pudgy Penguins",
    "simbolo": "PENGUUSDT",
    "fuente": "binance",
-   "volumen_30d": 210090882
+   "volumen_30d": 210562929
+  },
+  {
+   "puesto": 121,
+   "ticker": "FET",
+   "nombre": "Artificial Superintelligence Alliance",
+   "simbolo": "FETUSDT",
+   "fuente": "binance",
+   "volumen_30d": 144249494
   },
   {
    "puesto": 122,
@@ -609,23 +601,31 @@
    "nombre": "Virtuals Protocol",
    "simbolo": "VIRTUALUSDT",
    "fuente": "binance",
-   "volumen_30d": 77975654
+   "volumen_30d": 78019228
   },
   {
-   "puesto": 126,
+   "puesto": 123,
+   "ticker": "GRASS",
+   "nombre": "Grass",
+   "simbolo": "GRASSUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 43003338
+  },
+  {
+   "puesto": 124,
    "ticker": "SEI",
    "nombre": "Sei",
    "simbolo": "SEIUSDT",
    "fuente": "binance",
-   "volumen_30d": 79225630
+   "volumen_30d": 79703874
   },
   {
    "puesto": 127,
-   "ticker": "FF",
-   "nombre": "Falcon Finance",
-   "simbolo": "FFUSDT",
-   "fuente": "binance",
-   "volumen_30d": 12650890
+   "ticker": "BSV",
+   "nombre": "Bitcoin SV",
+   "simbolo": "BSVUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 8708533
   },
   {
    "puesto": 128,
@@ -633,15 +633,15 @@
    "nombre": "Plasma",
    "simbolo": "XPLUSDT",
    "fuente": "binance",
-   "volumen_30d": 73043269
+   "volumen_30d": 72528793
   },
   {
    "puesto": 129,
-   "ticker": "BSV",
-   "nombre": "Bitcoin SV",
-   "simbolo": "BSVUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 8752368
+   "ticker": "BTT",
+   "nombre": "BitTorrent",
+   "simbolo": "BTTCUSDT",
+   "fuente": "binance",
+   "volumen_30d": 12760396
   },
   {
    "puesto": 130,
@@ -649,31 +649,15 @@
    "nombre": "Pendle",
    "simbolo": "PENDLEUSDT",
    "fuente": "binance",
-   "volumen_30d": 67663507
-  },
-  {
-   "puesto": 131,
-   "ticker": "OP",
-   "nombre": "Optimism",
-   "simbolo": "OPUSDT",
-   "fuente": "binance",
-   "volumen_30d": 97936355
-  },
-  {
-   "puesto": 132,
-   "ticker": "LDO",
-   "nombre": "Lido DAO",
-   "simbolo": "LDOUSDT",
-   "fuente": "binance",
-   "volumen_30d": 60227396
+   "volumen_30d": 66759008
   },
   {
    "puesto": 133,
-   "ticker": "BTT",
-   "nombre": "BitTorrent",
-   "simbolo": "BTTCUSDT",
+   "ticker": "FF",
+   "nombre": "Falcon Finance",
+   "simbolo": "FFUSDT",
    "fuente": "binance",
-   "volumen_30d": 12601544
+   "volumen_30d": 12297763
   },
   {
    "puesto": 134,
@@ -681,63 +665,71 @@
    "nombre": "Tezos",
    "simbolo": "XTZUSDT",
    "fuente": "binance",
-   "volumen_30d": 13138243
+   "volumen_30d": 12917245
   },
   {
-   "puesto": 136,
+   "puesto": 135,
    "ticker": "SPX",
    "nombre": "SPX6900",
    "simbolo": "SPXUSDT",
    "fuente": "bitget",
-   "volumen_30d": 10682260
+   "volumen_30d": 10645829
   },
   {
-   "puesto": 137,
+   "puesto": 136,
+   "ticker": "LDO",
+   "nombre": "Lido DAO",
+   "simbolo": "LDOUSDT",
+   "fuente": "binance",
+   "volumen_30d": 60718274
+  },
+  {
+   "puesto": 139,
+   "ticker": "OP",
+   "nombre": "Optimism",
+   "simbolo": "OPUSDT",
+   "fuente": "binance",
+   "volumen_30d": 100549799
+  },
+  {
+   "puesto": 140,
    "ticker": "PIEVERSE",
    "nombre": "Pieverse",
    "simbolo": "PIEVERSEUSDT",
    "fuente": "bitget",
-   "volumen_30d": 8508653
+   "volumen_30d": 8513664
   },
   {
-   "puesto": 143,
+   "puesto": 141,
    "ticker": "SUN",
    "nombre": "Sun Token",
    "simbolo": "SUNUSDT",
    "fuente": "binance",
-   "volumen_30d": 16585627
+   "volumen_30d": 16624066
   },
   {
-   "puesto": 145,
+   "puesto": 146,
    "ticker": "KITE",
    "nombre": "Kite",
    "simbolo": "KITEUSDT",
    "fuente": "binance",
-   "volumen_30d": 13798905
+   "volumen_30d": 14134646
   },
   {
-   "puesto": 146,
-   "ticker": "UB",
-   "nombre": "Unibase",
-   "simbolo": "UBUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 12279572
-  },
-  {
-   "puesto": 148,
+   "puesto": 147,
    "ticker": "CFX",
    "nombre": "Conflux",
    "simbolo": "CFXUSDT",
    "fuente": "binance",
-   "volumen_30d": 13643643
+   "volumen_30d": 13854889
   },
   {
    "puesto": 149,
-   "ticker": "BAT",
-   "nombre": "Basic Attention",
-   "simbolo": "BATUSDT",
-   "fuente": "binance",
-   "volumen_30d": 27642794
+   "ticker": "UB",
+   "nombre": "Unibase",
+   "simbolo": "UBUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 12090292
   },
   {
    "puesto": 150,
@@ -745,15 +737,15 @@
    "nombre": "Kaia",
    "simbolo": "KAIAUSDT",
    "fuente": "binance",
-   "volumen_30d": 16611707
+   "volumen_30d": 17168620
   },
   {
-   "puesto": 152,
+   "puesto": 151,
    "ticker": "MON",
    "nombre": "Monad",
    "simbolo": "MONUSDT",
    "fuente": "bitget",
-   "volumen_30d": 61395438
+   "volumen_30d": 60108388
   },
   {
    "puesto": 154,
@@ -761,87 +753,95 @@
    "nombre": "The Graph",
    "simbolo": "GRTUSDT",
    "fuente": "binance",
-   "volumen_30d": 21130907
+   "volumen_30d": 21093021
   },
   {
    "puesto": 155,
-   "ticker": "JTO",
-   "nombre": "Jito",
-   "simbolo": "JTOUSDT",
-   "fuente": "binance",
-   "volumen_30d": 37844419
-  },
-  {
-   "puesto": 156,
    "ticker": "BONK",
    "nombre": "Bonk",
    "simbolo": "BONKUSDT",
    "fuente": "binance",
-   "volumen_30d": 56851102
+   "volumen_30d": 57350547
   },
   {
-   "puesto": 157,
+   "puesto": 156,
    "ticker": "LUNC",
    "nombre": "Terra Luna Classic",
    "simbolo": "LUNCUSDT",
    "fuente": "binance",
-   "volumen_30d": 10110263
+   "volumen_30d": 10139765
   },
   {
-   "puesto": 158,
-   "ticker": "SYRUP",
-   "nombre": "Maple Finance",
-   "simbolo": "SYRUPUSDT",
+   "puesto": 157,
+   "ticker": "JTO",
+   "nombre": "Jito",
+   "simbolo": "JTOUSDT",
    "fuente": "binance",
-   "volumen_30d": 10745781
+   "volumen_30d": 37857333
   },
   {
    "puesto": 159,
+   "ticker": "BAT",
+   "nombre": "Basic Attention",
+   "simbolo": "BATUSDT",
+   "fuente": "binance",
+   "volumen_30d": 30010746
+  },
+  {
+   "puesto": 161,
    "ticker": "AR",
    "nombre": "Arweave",
    "simbolo": "ARUSDT",
    "fuente": "binance",
-   "volumen_30d": 29253659
+   "volumen_30d": 29253668
   },
   {
-   "puesto": 161,
+   "puesto": 163,
+   "ticker": "SYRUP",
+   "nombre": "Maple Finance",
+   "simbolo": "SYRUPUSDT",
+   "fuente": "binance",
+   "volumen_30d": 11015488
+  },
+  {
+   "puesto": 164,
    "ticker": "ENS",
    "nombre": "Ethereum Name Service",
    "simbolo": "ENSUSDT",
    "fuente": "binance",
-   "volumen_30d": 18598309
+   "volumen_30d": 18621125
   },
   {
-   "puesto": 163,
+   "puesto": 165,
    "ticker": "FLOKI",
    "nombre": "FLOKI",
    "simbolo": "FLOKIUSDT",
    "fuente": "binance",
-   "volumen_30d": 24829991
+   "volumen_30d": 24803780
   },
   {
    "puesto": 166,
-   "ticker": "JASMY",
-   "nombre": "JasmyCoin",
-   "simbolo": "JASMYUSDT",
-   "fuente": "binance",
-   "volumen_30d": 17033213
+   "ticker": "Q",
+   "nombre": "Quack AI",
+   "simbolo": "QUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 30419688
   },
   {
-   "puesto": 167,
+   "puesto": 168,
    "ticker": "EIGEN",
    "nombre": "EigenCloud (prev. EigenLayer)",
    "simbolo": "EIGENUSDT",
    "fuente": "binance",
-   "volumen_30d": 33408516
+   "volumen_30d": 33715763
   },
   {
    "puesto": 170,
-   "ticker": "IOTA",
-   "nombre": "IOTA",
-   "simbolo": "IOTAUSDT",
+   "ticker": "JASMY",
+   "nombre": "JasmyCoin",
+   "simbolo": "JASMYUSDT",
    "fuente": "binance",
-   "volumen_30d": 11821198
+   "volumen_30d": 17122970
   },
   {
    "puesto": 171,
@@ -849,31 +849,31 @@
    "nombre": "Compound",
    "simbolo": "COMPUSDT",
    "fuente": "binance",
-   "volumen_30d": 19578893
+   "volumen_30d": 19798075
   },
   {
    "puesto": 172,
+   "ticker": "PONS",
+   "nombre": "Pons",
+   "simbolo": "PONSUSDT",
+   "fuente": "bitget",
+   "volumen_30d": 62682522
+  },
+  {
+   "puesto": 173,
+   "ticker": "IOTA",
+   "nombre": "IOTA",
+   "simbolo": "IOTAUSDT",
+   "fuente": "binance",
+   "volumen_30d": 10908367
+  },
+  {
+   "puesto": 177,
    "ticker": "KMNO",
    "nombre": "Kamino",
    "simbolo": "KMNOUSDT",
    "fuente": "binance",
-   "volumen_30d": 12900903
-  },
-  {
-   "puesto": 174,
-   "ticker": "S",
-   "nombre": "Sonic",
-   "simbolo": "SUSDT",
-   "fuente": "binance",
-   "volumen_30d": 54506179
-  },
-  {
-   "puesto": 177,
-   "ticker": "RUNE",
-   "nombre": "THORChain",
-   "simbolo": "RUNEUSDT",
-   "fuente": "binance",
-   "volumen_30d": 90179940
+   "volumen_30d": 13247190
   },
   {
    "puesto": 179,
@@ -881,39 +881,31 @@
    "nombre": "Meteora",
    "simbolo": "METUSDT",
    "fuente": "binance",
-   "volumen_30d": 49882379
+   "volumen_30d": 50621322
+  },
+  {
+   "puesto": 180,
+   "ticker": "S",
+   "nombre": "Sonic",
+   "simbolo": "SUSDT",
+   "fuente": "binance",
+   "volumen_30d": 56409673
   },
   {
    "puesto": 181,
+   "ticker": "RUNE",
+   "nombre": "THORChain",
+   "simbolo": "RUNEUSDT",
+   "fuente": "binance",
+   "volumen_30d": 90612958
+  },
+  {
+   "puesto": 183,
    "ticker": "TWT",
    "nombre": "Trust Wallet",
    "simbolo": "TWTUSDT",
    "fuente": "binance",
-   "volumen_30d": 7902874
-  },
-  {
-   "puesto": 182,
-   "ticker": "WIF",
-   "nombre": "dogwifhat",
-   "simbolo": "WIFUSDT",
-   "fuente": "binance",
-   "volumen_30d": 74259569
-  },
-  {
-   "puesto": 184,
-   "ticker": "PONS",
-   "nombre": "Pons",
-   "simbolo": "PONSUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 64218124
-  },
-  {
-   "puesto": 186,
-   "ticker": "THETA",
-   "nombre": "Theta Network",
-   "simbolo": "THETAUSDT",
-   "fuente": "binance",
-   "volumen_30d": 6170108
+   "volumen_30d": 7865347
   },
   {
    "puesto": 187,
@@ -921,39 +913,31 @@
    "nombre": "Akash Network",
    "simbolo": "AKTUSDT",
    "fuente": "bitget",
-   "volumen_30d": 7738048
+   "volumen_30d": 7735701
   },
   {
-   "puesto": 189,
-   "ticker": "ZAMA",
-   "nombre": "Zama",
-   "simbolo": "ZAMAUSDT",
+   "puesto": 188,
+   "ticker": "WIF",
+   "nombre": "dogwifhat",
+   "simbolo": "WIFUSDT",
    "fuente": "binance",
-   "volumen_30d": 28942630
+   "volumen_30d": 74126624
   },
   {
-   "puesto": 190,
+   "puesto": 191,
+   "ticker": "THETA",
+   "nombre": "Theta Network",
+   "simbolo": "THETAUSDT",
+   "fuente": "binance",
+   "volumen_30d": 6116169
+  },
+  {
+   "puesto": 192,
    "ticker": "AXS",
    "nombre": "Axie Infinity",
    "simbolo": "AXSUSDT",
    "fuente": "binance",
-   "volumen_30d": 35968270
-  },
-  {
-   "puesto": 191,
-   "ticker": "Q",
-   "nombre": "Quack AI",
-   "simbolo": "QUSDT",
-   "fuente": "bitget",
-   "volumen_30d": 29136705
-  },
-  {
-   "puesto": 195,
-   "ticker": "MANA",
-   "nombre": "Decentraland",
-   "simbolo": "MANAUSDT",
-   "fuente": "binance",
-   "volumen_30d": 25483321
+   "volumen_30d": 36037575
   },
   {
    "puesto": 196,
@@ -961,23 +945,31 @@
    "nombre": "Convex Finance",
    "simbolo": "CVXUSDT",
    "fuente": "binance",
-   "volumen_30d": 8224982
+   "volumen_30d": 8213922
   },
   {
-   "puesto": 199,
+   "puesto": 197,
+   "ticker": "MANA",
+   "nombre": "Decentraland",
+   "simbolo": "MANAUSDT",
+   "fuente": "binance",
+   "volumen_30d": 25514479
+  },
+  {
+   "puesto": 198,
    "ticker": "2Z",
    "nombre": "DoubleZero",
    "simbolo": "2ZUSDT",
    "fuente": "binance",
-   "volumen_30d": 12926778
+   "volumen_30d": 12988505
   },
   {
-   "puesto": 200,
-   "ticker": "XCN",
-   "nombre": "Onyxcoin",
-   "simbolo": "XCN-USDT",
-   "fuente": "bingx",
-   "volumen_30d": 9838842
+   "puesto": 199,
+   "ticker": "A",
+   "nombre": "Vaulta",
+   "simbolo": "AUSDT",
+   "fuente": "binance",
+   "volumen_30d": 9061126
   }
  ],
  "fuera": [
@@ -988,13 +980,13 @@
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 52,
+   "puesto": 51,
    "ticker": "M",
    "nombre": "MemeCore",
-   "motivo": "volumen promedio 30 días de 1.4 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 1.3 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 86,
+   "puesto": 85,
    "ticker": "NEXO",
    "nombre": "NEXO",
    "motivo": "volumen promedio 30 días de 4.5 M USD (mínimo 5 M)"
@@ -1006,52 +998,64 @@
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 98,
+   "puesto": 99,
    "ticker": "BDX",
    "nombre": "Beldex",
-   "motivo": "volumen promedio 30 días de 3.8 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 3.5 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 105,
+   "puesto": 100,
    "ticker": "PRL",
    "nombre": "Pearl",
-   "motivo": "volumen promedio 30 días de 3.7 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 4.1 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 106,
+   "puesto": 107,
    "ticker": "FLR",
    "nombre": "Flare",
-   "motivo": "volumen promedio 30 días de 3.6 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 3.5 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 123,
+   "puesto": 125,
    "ticker": "DRV",
    "nombre": "Derive",
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 140,
+   "puesto": 137,
    "ticker": "REUSD",
    "nombre": "Re Protocol reUSD",
    "motivo": "volumen promedio 30 días de 3.3 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 147,
+   "puesto": 145,
    "ticker": "GNO",
    "nombre": "Gnosis",
-   "motivo": "volumen promedio 30 días de 1.4 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 1.3 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 151,
+   "puesto": 148,
    "ticker": "OHM",
    "nombre": "Olympus",
    "motivo": "volumen promedio 30 días de 0.2 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 153,
+   "puesto": 152,
    "ticker": "DCR",
    "nombre": "Decred",
-   "motivo": "volumen promedio 30 días de 1.9 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 1.8 M USD (mínimo 5 M)"
+  },
+  {
+   "puesto": 153,
+   "ticker": "CARDS",
+   "nombre": "Collector Crypt",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
+  },
+  {
+   "puesto": 158,
+   "ticker": "SHFL",
+   "nombre": "Shuffle",
+   "motivo": "volumen promedio 30 días de 1.2 M USD (mínimo 5 M)"
   },
   {
    "puesto": 160,
@@ -1061,24 +1065,12 @@
   },
   {
    "puesto": 162,
-   "ticker": "SHFL",
-   "nombre": "Shuffle",
-   "motivo": "volumen promedio 30 días de 1.2 M USD (mínimo 5 M)"
-  },
-  {
-   "puesto": 164,
    "ticker": "APEPE",
    "nombre": "Ape and Pepe",
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 165,
-   "ticker": "CARDS",
-   "nombre": "Collector Crypt",
-   "motivo": "no está en Binance spot, Bitget ni BingX"
-  },
-  {
-   "puesto": 168,
+   "puesto": 167,
    "ticker": "NFT",
    "nombre": "AINFT",
    "motivo": "no está en Binance spot, Bitget ni BingX"
@@ -1090,28 +1082,28 @@
    "motivo": "volumen promedio 30 días de 0.0 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 173,
+   "puesto": 176,
    "ticker": "ZBCN",
    "nombre": "Zebec Network",
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 176,
-   "ticker": "KAG",
-   "nombre": "Kinesis Silver",
-   "motivo": "volumen promedio 30 días de 0.2 M USD (mínimo 5 M)"
-  },
-  {
-   "puesto": 180,
+   "puesto": 178,
    "ticker": "KOGE",
    "nombre": "KOGE",
-   "motivo": "volumen promedio 30 días de 0.1 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 0.0 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 183,
+   "puesto": 182,
    "ticker": "USX",
    "nombre": "USX",
    "motivo": "volumen promedio 30 días de 1.3 M USD (mínimo 5 M)"
+  },
+  {
+   "puesto": 184,
+   "ticker": "KAG",
+   "nombre": "Kinesis Silver",
+   "motivo": "volumen promedio 30 días de 0.2 M USD (mínimo 5 M)"
   },
   {
    "puesto": 185,
@@ -1120,16 +1112,22 @@
    "motivo": "volumen promedio 30 días de 0.0 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 188,
-   "ticker": "GRX",
-   "nombre": "GRX Chain",
-   "motivo": "volumen promedio 30 días de 2.5 M USD (mínimo 5 M)"
-  },
-  {
-   "puesto": 192,
+   "puesto": 186,
    "ticker": "FLUID",
    "nombre": "Fluid",
-   "motivo": "volumen promedio 30 días de 3.6 M USD (mínimo 5 M)"
+   "motivo": "volumen promedio 30 días de 3.8 M USD (mínimo 5 M)"
+  },
+  {
+   "puesto": 189,
+   "ticker": "GRX",
+   "nombre": "GRX Chain",
+   "motivo": "volumen promedio 30 días de 2.4 M USD (mínimo 5 M)"
+  },
+  {
+   "puesto": 190,
+   "ticker": "TRAC",
+   "nombre": "OriginTrail",
+   "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
    "puesto": 194,
@@ -1138,15 +1136,15 @@
    "motivo": "no está en Binance spot, Bitget ni BingX"
   },
   {
-   "puesto": 197,
+   "puesto": 195,
    "ticker": "USAT",
    "nombre": "USAT",
    "motivo": "volumen promedio 30 días de 0.5 M USD (mínimo 5 M)"
   },
   {
-   "puesto": 198,
-   "ticker": "TRAC",
-   "nombre": "OriginTrail",
+   "puesto": 200,
+   "ticker": "MX",
+   "nombre": "MX",
    "motivo": "no está en Binance spot, Bitget ni BingX"
   }
  ]
