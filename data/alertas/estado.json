@@ -583,7 +583,8 @@
   "XPLUSDT|div|bajista oculta|2026-10-21|formación": "2026-10-31 00:20",
   "BEAMUSDT|div|bajista regular|2026-10-11|formación": "2026-10-31 00:20",
   "RUNEUSDT|div|bajista regular|2026-10-21|formación": "2026-10-31 00:20",
-  "METUSDT|ema100|2026-10-30|": "2026-10-31 00:20"
+  "METUSDT|ema100|2026-10-30|": "2026-10-31 00:20",
+  "QUSDT|ema200|2026-10-31|": "2026-10-31 03:04"
  },
  "abiertas": {
   "MINAUSDT|div|bajista regular|2026-09-22|formación": {
