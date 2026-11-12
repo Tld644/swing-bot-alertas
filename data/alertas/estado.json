@@ -718,7 +718,8 @@
   "FETUSDT|div|bajista oculta|2026-11-04|formación": "2026-11-12 00:33",
   "BTTCUSDT|ema100|2026-11-11|": "2026-11-12 00:33",
   "LUNCUSDT|sv|2026-11-11|": "2026-11-12 00:33",
-  "SYRUPUSDT|sv|2026-11-11|": "2026-11-12 00:33"
+  "SYRUPUSDT|sv|2026-11-11|": "2026-11-12 00:33",
+  "ARBUSDT|ema200|2026-11-12|": "2026-11-12 07:38"
  },
  "abiertas": {
   "MINAUSDT|div|bajista regular|2026-09-22|formación": {
@@ -864,7 +865,7 @@
   "GRTUSDT": "2026-11-11",
   "XMRUSDT": "2026-11-11",
   "MUSDT": "2026-10-04",
-  "MNT-USDT": "2026-11-10",
+  "MNT-USDT": "2026-11-11",
   "VVVUSDT": "2026-11-11",
   "KASUSDT": "2026-11-11",
   "PIUSDT": "2026-10-23",
